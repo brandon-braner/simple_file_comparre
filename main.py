@@ -1,8 +1,15 @@
 import filecmp
 import io
+import sys
 
-file_one = 'xml1.xml'
-file_two = 'xml2.xml'
+args = sys.argv
+del args[0]  # get rid of main.py
+num_of_args = len(args)
+if num_of_args != 2:
+    print('Incorrect number of arguments. Should have 2 filenames')
+
+file_one = args[0]
+file_two = args[1]
 
 
 def get_file_end(file_reader):
