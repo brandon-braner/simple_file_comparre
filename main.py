@@ -1,3 +1,4 @@
+import difflib
 import filecmp
 import io
 import sys
@@ -37,6 +38,7 @@ file_1_is_at_end = False
 file_2_is_at_end = False
 line_number = 1
 all_differences = []
+diff_two = []
 while True:
 
     if file_reader_1.tell() == file_reader_1_eof:
@@ -65,6 +67,9 @@ while True:
         line_number = line_number + 1
         continue
     else:
+        diff = difflib.context_diff(file_one_string, file_two_string, lineterm='')
+        diff_two.append(''.join(diff))
+
         differences = []
         differences.append({
             'file_1_string': file_one_string,
@@ -77,8 +82,10 @@ while True:
 if len(all_differences) == 0:
     print(f"{bcolors.OKGREEN} No Differences")
 else:
-    diff = json.dumps(all_differences)
-    output = open('results.json', 'w')
-    output.write(diff)
-    output.close()
+    # diff = json.dumps(all_differences)
+    # output = open('results.json', 'w')
+    # output.write(diff)
+    # output.close()
+    print('\n'.join(diff_two))
+
 
