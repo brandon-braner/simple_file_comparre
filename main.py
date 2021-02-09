@@ -35,7 +35,7 @@ file_reader_2_eof = get_file_end(file_reader_2)
 
 file_1_is_at_end = False
 file_2_is_at_end = False
-line_number = 0
+line_number = 1
 all_differences = []
 while True:
 
