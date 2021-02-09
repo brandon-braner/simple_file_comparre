@@ -1,6 +1,8 @@
 import filecmp
 import io
 import sys
+import json
+from print_classes import Bcolors as bcolors
 
 args = sys.argv
 del args[0]  # get rid of main.py
@@ -21,7 +23,7 @@ def get_file_end(file_reader):
 
 files_are_same = filecmp.cmp(file_one, file_two)
 if files_are_same:
-    print 'Files %s and %s are the same'%(file_one, file_two)
+    print bcolors.Fail + 'Files %s and %s are the same'%(file_one, file_two)
     exit(code=0)
 
 file_reader_1 = open(file_one, "r")
@@ -44,13 +46,16 @@ while True:
         file_2_is_at_end = True
 
     if file_1_is_at_end and file_2_is_at_end:
-        print("Both files are at the end, they are the same")
+        if len(all_differences) == 0:
+            print bcolors.OKGREEN + "Both files are at the end, they are the same"
+        else:
+            print bcolors.FAIL + "Both files are at the end but have differences"
         break
     elif file_1_is_at_end and not file_2_is_at_end:
-        print "%s reached the end before %s. They are not the same"%(file_one, file_two)
+        print bcolors.FAIL + "%s reached the end before %s. They are not the same"%(file_one, file_two)
         break;
     elif not file_1_is_at_end and file_2_is_at_end:
-        print "% reached the end before%}. They are not the same"%(file_one, file_two)
+        print bcolors.FAIL + "% reached the end before%}. They are not the same"%(file_one, file_two)
         break
 
     file_one_string = file_reader_1.readline()
@@ -71,6 +76,11 @@ while True:
         continue
 
 
-print all_differences
-
+if len(all_differences) == 0:
+    print bcolors.OKGREEN + "No Differences"
+else:
+    diff = json.dumps(all_differences)
+    output = open('results.json', 'w')
+    output.write(diff)
+    output.close()
 

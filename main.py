@@ -1,7 +1,6 @@
 import filecmp
 import io
 import sys
-import pprint
 import json
 
 from print_classes import Bcolors as bcolors
@@ -10,7 +9,7 @@ args = sys.argv
 del args[0]  # get rid of main.py
 num_of_args = len(args)
 if num_of_args != 2:
-    print('Incorrect number of arguments. Should have 2 filenames')
+    print(f'{bcolors.FAIL}Incorrect number of arguments. Should have 2 filenames')
 
 file_one = args[0]
 file_two = args[1]
@@ -50,7 +49,7 @@ while True:
         if len(all_differences) == 0:
             print(f"{bcolors.OKGREEN}Both files are at the end, they are the same")
         else:
-            print(f"{bcolors.OKGREEN}Both files are at the end but have differences ")
+            print(f"{bcolors.FAIL}Both files are at the end but have differences ")
         break
     elif file_1_is_at_end and not file_2_is_at_end:
         print(f"{bcolors.FAIL}{file_one} reached the end before {file_two}. They are not the same")

@@ -1,16 +1,1 @@
-[
-  [
-    {
-      "file_1_string": "<YEAR>1985</YEAR>\n",
-      "file_2_string": "<YEAR>1986</YEAR>\n",
-      "line_number": 7
-    }
-  ],
-  [
-    {
-      "file_1_string": "<PRICE>9.90</PRICE>\n",
-      "file_2_string": "<PRICE>9.91</PRICE>\n",
-      "line_number": 21
-    }
-  ]
-]
+[[{"line_number": 7, "file_2_string": "<YEAR>1986</YEAR>\n", "file_1_string": "<YEAR>1985</YEAR>\n"}], [{"line_number": 21, "file_2_string": "<PRICE>9.91</PRICE>\n", "file_1_string": "<PRICE>9.90</PRICE>\n"}]]
