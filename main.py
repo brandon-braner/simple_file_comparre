@@ -33,7 +33,7 @@ file_reader_2_eof = get_file_end(file_reader_2)
 file_1_is_at_end = False
 file_2_is_at_end = False
 line_number = 0
-
+all_differences = []
 while True:
 
     if file_reader_1.tell() == file_reader_1_eof:
@@ -44,10 +44,13 @@ while True:
 
     if file_1_is_at_end and file_2_is_at_end:
         print("Both files are at the end, they are the same")
+        break
     elif file_1_is_at_end and not file_2_is_at_end:
         print(f"{file_one} reached the end before {file_two}. They are not the same")
+        break
     elif not file_1_is_at_end and file_2_is_at_end:
         print(f"{file_two} reached the end before {file_one}. They are not the same")
+        break
 
     file_one_string = file_reader_1.readline()
     file_two_string = file_reader_2.readline()
@@ -56,10 +59,14 @@ while True:
         line_number = line_number + 1
         continue
     else:
-        print(f"Files are different at line number {line_number}")
-        print(f"{file_one} is {file_one_string}")
-        print(f"{file_two} is {file_two_string}")
-        break
+        differences = []
+        differences.append({
+            'file_1_string': file_one_string,
+            'file_2_string': file_two_string,
+            'line_number': line_number
+        })
+        all_differences.append(differences)
+        continue
 
 
 
