@@ -1,0 +1,12917 @@
+
+  change
+  
+    0
+    scores
+    Row
+    i
+  
+  
+    648
+    599
+  
+
+
+  change
+  
+    0
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IK
+  
+
+
+  change
+  
+    0
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different area code than the input phone number
+  
+
+
+  change
+  
+    4
+    accountnumber
+  
+  
+    7
+    5
+  
+
+
+  change
+  
+    4
+    scores
+    Row
+    i
+  
+  
+    699
+    618
+  
+
+
+  change
+  
+    4
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    DR
+    CB
+  
+
+
+  change
+  
+    4
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    4
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    PN
+    PA
+  
+
+
+  change
+  
+    4
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    Potential address discrepancy - the Input address may be previous address
+  
+
+
+  change
+  
+    4
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    73
+    PN
+  
+
+
+  change
+  
+    4
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    The input phone number is not found in the public record
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    5
+    accountnumber
+  
+  
+    8
+    6
+  
+
+
+  change
+  
+    5
+    scores
+    Row
+    i
+  
+  
+    677
+    524
+  
+
+
+  change
+  
+    5
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IK
+  
+
+
+  change
+  
+    5
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different area code than the input phone number
+  
+
+
+  change
+  
+    5
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    CB
+    DR
+  
+
+
+  change
+  
+    5
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Too few sources corroborating SSN, address, and phone
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    5
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    11
+    PA
+  
+
+
+  change
+  
+    5
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    The input address may be invalid according to postal specifications
+    Potential address discrepancy - the Input address may be previous address
+  
+
+
+  change
+  
+    5
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    PA
+    PN
+  
+
+
+  change
+  
+    5
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Potential address discrepancy - the Input address may be previous address
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    6
+    accountnumber
+  
+  
+    9
+    7
+  
+
+
+  change
+  
+    6
+    scores
+    Row
+    i
+  
+  
+    596
+    544
+  
+
+
+  change
+  
+    6
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IF
+  
+
+
+  change
+  
+    6
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is not assigned to the United States
+  
+
+
+  change
+  
+    6
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    PA
+    PN
+  
+
+
+  change
+  
+    6
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Potential address discrepancy - the Input address may be previous address
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    6
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    PN
+    73
+  
+
+
+  change
+  
+    6
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    The input phone number is not found in the public record
+  
+
+
+  change
+  
+    7
+    accountnumber
+  
+  
+    11
+    8
+  
+
+
+  change
+  
+    7
+    scores
+    Row
+    i
+  
+  
+    637
+    645
+  
+
+
+  change
+  
+    7
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IK
+  
+
+
+  change
+  
+    7
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different area code than the input phone number
+  
+
+
+  change
+  
+    7
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    DR
+    CB
+  
+
+
+  change
+  
+    7
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    7
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    PA
+    11
+  
+
+
+  change
+  
+    7
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Potential address discrepancy - the Input address may be previous address
+    The input address may be invalid according to postal specifications
+  
+
+
+  change
+  
+    7
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    PN
+    PA
+  
+
+
+  change
+  
+    7
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    Potential address discrepancy - the Input address may be previous address
+  
+
+
+  change
+  
+    8
+    accountnumber
+  
+  
+    12
+    9
+  
+
+
+  change
+  
+    8
+    scores
+    Row
+    i
+  
+  
+    693
+    596
+  
+
+
+  change
+  
+    9
+    accountnumber
+  
+  
+    13
+    10
+  
+
+
+  change
+  
+    9
+    scores
+    Row
+    i
+  
+  
+    646
+    657
+  
+
+
+  change
+  
+    9
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    II
+  
+
+
+  change
+  
+    9
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different State/Province than the input State/Province
+  
+
+
+  change
+  
+    9
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    DR
+    MI
+  
+
+
+  change
+  
+    9
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    Multiple identities associated with the input SSN
+  
+
+
+  change
+  
+    9
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    CB
+    DR
+  
+
+
+  change
+  
+    9
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Too few sources corroborating SSN, address, and phone
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    9
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    9D
+    PN
+  
+
+
+  change
+  
+    9
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Change of address frequency
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    10
+    accountnumber
+  
+  
+    14
+    11
+  
+
+
+  change
+  
+    10
+    scores
+    Row
+    i
+  
+  
+    536
+    637
+  
+
+
+  change
+  
+    10
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    SA
+    DR
+  
+
+
+  change
+  
+    10
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    SSN not reported at address
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    10
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    DR
+    MN
+  
+
+
+  change
+  
+    10
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    10
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    CB
+    VV
+  
+
+
+  change
+  
+    10
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Too few sources corroborating SSN, address, and phone
+    Minor or elderly identity
+  
+
+
+  change
+  
+    10
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    MN
+    PA
+  
+
+
+  change
+  
+    10
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Potential address discrepancy - the Input address may be previous address
+  
+
+
+  change
+  
+    10
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    VV
+    PN
+  
+
+
+  change
+  
+    10
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Minor or elderly identity
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    11
+    accountnumber
+  
+  
+    15
+    12
+  
+
+
+  change
+  
+    11
+    scores
+    Row
+    i
+  
+  
+    669
+    693
+  
+
+
+  change
+  
+    11
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    9D
+    PA
+  
+
+
+  change
+  
+    11
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Change of address frequency
+    Potential address discrepancy - the Input address may be previous address
+  
+
+
+  change
+  
+    11
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    16
+    PN
+  
+
+
+  change
+  
+    11
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    The input phone number and input zip code combination is invalid
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    12
+    accountnumber
+  
+  
+    16
+    13
+  
+
+
+  change
+  
+    12
+    scores
+    Row
+    i
+  
+  
+    675
+    633
+  
+
+
+  change
+  
+    12
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    II
+  
+
+
+  change
+  
+    12
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different State/Province than the input State/Province
+  
+
+
+  change
+  
+    12
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    SA
+    DR
+  
+
+
+  change
+  
+    12
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    SSN not reported at address
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    12
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    11
+    9D
+  
+
+
+  change
+  
+    12
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    The input address may be invalid according to postal specifications
+    Change of address frequency
+  
+
+
+  change
+  
+    13
+    accountnumber
+  
+  
+    17
+    14
+  
+
+
+  change
+  
+    13
+    scores
+    Row
+    i
+  
+  
+    627
+    536
+  
+
+
+  change
+  
+    13
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    DR
+    SA
+  
+
+
+  change
+  
+    13
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    SSN not reported at address
+  
+
+
+  change
+  
+    13
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    MN
+    DR
+  
+
+
+  change
+  
+    13
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    13
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    VV
+    CB
+  
+
+
+  change
+  
+    13
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Minor or elderly identity
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    13
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    9D
+    MN
+  
+
+
+  change
+  
+    13
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Change of address frequency
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    13
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    PN
+    VV
+  
+
+
+  change
+  
+    13
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    Minor or elderly identity
+  
+
+
+  change
+  
+    14
+    accountnumber
+  
+  
+    18
+    15
+  
+
+
+  change
+  
+    14
+    scores
+    Row
+    i
+  
+  
+    627
+    669
+  
+
+
+  change
+  
+    14
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    SA
+    DR
+  
+
+
+  change
+  
+    14
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    SSN not reported at address
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    14
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    CB
+    MN
+  
+
+
+  change
+  
+    14
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Too few sources corroborating SSN, address, and phone
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    14
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    MN
+    VV
+  
+
+
+  change
+  
+    14
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Minor or elderly identity
+  
+
+
+  change
+  
+    14
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    VV
+    9D
+  
+
+
+  change
+  
+    14
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Minor or elderly identity
+    Change of address frequency
+  
+
+
+  change
+  
+    14
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    11
+    16
+  
+
+
+  change
+  
+    14
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    The input address may be invalid according to postal specifications
+    The input phone number and input zip code combination is invalid
+  
+
+
+  change
+  
+    15
+    accountnumber
+  
+  
+    19
+    16
+  
+
+
+  change
+  
+    15
+    scores
+    Row
+    i
+  
+  
+    652
+    640
+  
+
+
+  change
+  
+    15
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    II
+  
+
+
+  change
+  
+    15
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different State/Province than the input State/Province
+  
+
+
+  change
+  
+    15
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    DR
+    SA
+  
+
+
+  change
+  
+    15
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    SSN not reported at address
+  
+
+
+  change
+  
+    15
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    MN
+    CB
+  
+
+
+  change
+  
+    15
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    15
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    VV
+    MN
+  
+
+
+  change
+  
+    15
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Minor or elderly identity
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    15
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    PA
+    VV
+  
+
+
+  change
+  
+    15
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Potential address discrepancy - the Input address may be previous address
+    Minor or elderly identity
+  
+
+
+  change
+  
+    15
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    PN
+    11
+  
+
+
+  change
+  
+    15
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    The input address may be invalid according to postal specifications
+  
+
+
+  change
+  
+    16
+    accountnumber
+  
+  
+    21
+    17
+  
+
+
+  change
+  
+    16
+    scores
+    Row
+    i
+  
+  
+    558
+    568
+  
+
+
+  change
+  
+    16
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    II
+  
+
+
+  change
+  
+    16
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different State/Province than the input State/Province
+  
+
+
+  change
+  
+    16
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    CB
+    MN
+  
+
+
+  change
+  
+    16
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Too few sources corroborating SSN, address, and phone
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    16
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    MN
+    VV
+  
+
+
+  change
+  
+    16
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Minor or elderly identity
+  
+
+
+  change
+  
+    16
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    VV
+    9D
+  
+
+
+  change
+  
+    16
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Minor or elderly identity
+    Change of address frequency
+  
+
+
+  change
+  
+    16
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    9D
+    PN
+  
+
+
+  change
+  
+    16
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Change of address frequency
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    17
+    accountnumber
+  
+  
+    22
+    18
+  
+
+
+  change
+  
+    17
+    scores
+    Row
+    i
+  
+  
+    584
+    616
+  
+
+
+  change
+  
+    17
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IJ
+  
+
+
+  change
+  
+    17
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different postal code than the input postal code
+  
+
+
+  change
+  
+    17
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    DR
+    SA
+  
+
+
+  change
+  
+    17
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    SSN not reported at address
+  
+
+
+  change
+  
+    17
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    9D
+    11
+  
+
+
+  change
+  
+    17
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Change of address frequency
+    The input address may be invalid according to postal specifications
+  
+
+
+  change
+  
+    18
+    accountnumber
+  
+  
+    23
+    19
+  
+
+
+  change
+  
+    18
+    scores
+    Row
+    i
+  
+  
+    662
+    640
+  
+
+
+  change
+  
+    18
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    II
+  
+
+
+  change
+  
+    18
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different State/Province than the input State/Province
+  
+
+
+  change
+  
+    18
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    38
+    MN
+  
+
+
+  change
+  
+    18
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN is associated with multiple last names
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    18
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    MN
+    VV
+  
+
+
+  change
+  
+    18
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Minor or elderly identity
+  
+
+
+  change
+  
+    18
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    VV
+    PA
+  
+
+
+  change
+  
+    18
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Minor or elderly identity
+    Potential address discrepancy - the Input address may be previous address
+  
+
+
+  change
+  
+    18
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    9D
+    PN
+  
+
+
+  change
+  
+    18
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Change of address frequency
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    19
+    accountnumber
+  
+  
+    24
+    20
+  
+
+
+  change
+  
+    19
+    scores
+    Row
+    i
+  
+  
+    567
+    509
+  
+
+
+  change
+  
+    19
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IK
+  
+
+
+  change
+  
+    19
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different area code than the input phone number
+  
+
+
+  change
+  
+    19
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    9D
+    PA
+  
+
+
+  change
+  
+    19
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Change of address frequency
+    Potential address discrepancy - the Input address may be previous address
+  
+
+
+  change
+  
+    20
+    accountnumber
+  
+  
+    25
+    21
+  
+
+
+  change
+  
+    20
+    scores
+    Row
+    i
+  
+  
+    713
+    558
+  
+
+
+  change
+  
+    20
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    SA
+    DR
+  
+
+
+  change
+  
+    20
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    SSN not reported at address
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    20
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    11
+    9D
+  
+
+
+  change
+  
+    20
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    The input address may be invalid according to postal specifications
+    Change of address frequency
+  
+
+
+  change
+  
+    21
+    accountnumber
+  
+  
+    28
+    22
+  
+
+
+  change
+  
+    21
+    scores
+    Row
+    i
+  
+  
+    548
+    584
+  
+
+
+  change
+  
+    21
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    MN
+    CB
+  
+
+
+  change
+  
+    21
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    21
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    VV
+    MN
+  
+
+
+  change
+  
+    21
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Minor or elderly identity
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    21
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    9D
+    VV
+  
+
+
+  change
+  
+    21
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Change of address frequency
+    Minor or elderly identity
+  
+
+
+  change
+  
+    21
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    PA
+    9D
+  
+
+
+  change
+  
+    21
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Potential address discrepancy - the Input address may be previous address
+    Change of address frequency
+  
+
+
+  change
+  
+    22
+    accountnumber
+  
+  
+    29
+    23
+  
+
+
+  change
+  
+    22
+    scores
+    Row
+    i
+  
+  
+    675
+    662
+  
+
+
+  change
+  
+    22
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    CB
+    38
+  
+
+
+  change
+  
+    22
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Too few sources corroborating SSN, address, and phone
+    The input SSN is associated with multiple last names
+  
+
+
+  change
+  
+    23
+    accountnumber
+  
+  
+    31
+    24
+  
+
+
+  change
+  
+    23
+    scores
+    Row
+    i
+  
+  
+    647
+    523
+  
+
+
+  change
+  
+    23
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IK
+  
+
+
+  change
+  
+    23
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different area code than the input phone number
+  
+
+
+  change
+  
+    24
+    accountnumber
+  
+  
+    32
+    25
+  
+
+
+  change
+  
+    24
+    scores
+    Row
+    i
+  
+  
+    653
+    692
+  
+
+
+  change
+  
+    24
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    II
+  
+
+
+  change
+  
+    24
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different State/Province than the input State/Province
+  
+
+
+  change
+  
+    24
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    MN
+    SA
+  
+
+
+  change
+  
+    24
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    SSN not reported at address
+  
+
+
+  change
+  
+    24
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    VV
+    CB
+  
+
+
+  change
+  
+    24
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Minor or elderly identity
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    24
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    PN
+    MN
+  
+
+
+  change
+  
+    24
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    24
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    73
+    VV
+  
+
+
+  change
+  
+    24
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    The input phone number is not found in the public record
+    Minor or elderly identity
+  
+
+
+  change
+  
+    24
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    PH
+    11
+  
+
+
+  change
+  
+    24
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Name, address and phone not linked in reporting sources
+    The input address may be invalid according to postal specifications
+  
+
+
+  change
+  
+    25
+    accountnumber
+  
+  
+    33
+    26
+  
+
+
+  change
+  
+    25
+    scores
+    Row
+    i
+  
+  
+    741
+    587
+  
+
+
+  change
+  
+    25
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IK
+  
+
+
+  change
+  
+    25
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different area code than the input phone number
+  
+
+
+  change
+  
+    25
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    38
+    DR
+  
+
+
+  change
+  
+    25
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    The input SSN is associated with multiple last names
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    25
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    MN
+    CB
+  
+
+
+  change
+  
+    25
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    25
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    VV
+    MN
+  
+
+
+  change
+  
+    25
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Minor or elderly identity
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    25
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    PN
+    VV
+  
+
+
+  change
+  
+    25
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    Minor or elderly identity
+  
+
+
+  change
+  
+    25
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    73
+    9D
+  
+
+
+  change
+  
+    25
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    The input phone number is not found in the public record
+    Change of address frequency
+  
+
+
+  change
+  
+    26
+    accountnumber
+  
+  
+    35
+    27
+  
+
+
+  change
+  
+    26
+    scores
+    Row
+    i
+  
+  
+    630
+    661
+  
+
+
+  change
+  
+    26
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    CB
+  
+
+
+  change
+  
+    26
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    26
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    DR
+    38
+  
+
+
+  change
+  
+    26
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    The input SSN is associated with multiple last names
+  
+
+
+  change
+  
+    26
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    38
+    MN
+  
+
+
+  change
+  
+    26
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN is associated with multiple last names
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    26
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    MN
+    VV
+  
+
+
+  change
+  
+    26
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Minor or elderly identity
+  
+
+
+  change
+  
+    26
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    VV
+    9D
+  
+
+
+  change
+  
+    26
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Minor or elderly identity
+    Change of address frequency
+  
+
+
+  change
+  
+    27
+    accountnumber
+  
+  
+    36
+    28
+  
+
+
+  change
+  
+    27
+    scores
+    Row
+    i
+  
+  
+    633
+    520
+  
+
+
+  change
+  
+    27
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    II
+  
+
+
+  change
+  
+    27
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different State/Province than the input State/Province
+  
+
+
+  change
+  
+    27
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    SA
+    DR
+  
+
+
+  change
+  
+    27
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    SSN not reported at address
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    27
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    CB
+    MN
+  
+
+
+  change
+  
+    27
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Too few sources corroborating SSN, address, and phone
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    27
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    MN
+    VV
+  
+
+
+  change
+  
+    27
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Minor or elderly identity
+  
+
+
+  change
+  
+    27
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    VV
+    9D
+  
+
+
+  change
+  
+    27
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Minor or elderly identity
+    Change of address frequency
+  
+
+
+  change
+  
+    27
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    9D
+    PA
+  
+
+
+  change
+  
+    27
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Change of address frequency
+    Potential address discrepancy - the Input address may be previous address
+  
+
+
+  change
+  
+    28
+    accountnumber
+  
+  
+    37
+    29
+  
+
+
+  change
+  
+    28
+    scores
+    Row
+    i
+  
+  
+    596
+    675
+  
+
+
+  change
+  
+    28
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    38
+    CB
+  
+
+
+  change
+  
+    28
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN is associated with multiple last names
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    29
+    accountnumber
+  
+  
+    39
+    30
+  
+
+
+  change
+  
+    29
+    scores
+    Row
+    i
+  
+  
+    594
+    618
+  
+
+
+  change
+  
+    29
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    SA
+    DR
+  
+
+
+  change
+  
+    29
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    SSN not reported at address
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    29
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    CB
+    MN
+  
+
+
+  change
+  
+    29
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Too few sources corroborating SSN, address, and phone
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    29
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    38
+    VV
+  
+
+
+  change
+  
+    29
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    The input SSN is associated with multiple last names
+    Minor or elderly identity
+  
+
+
+  change
+  
+    29
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    MN
+    PA
+  
+
+
+  change
+  
+    29
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Potential address discrepancy - the Input address may be previous address
+  
+
+
+  change
+  
+    29
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    BO
+    PN
+  
+
+
+  change
+  
+    29
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Identity sourced only by national credit bureaus
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    30
+    accountnumber
+  
+  
+    40
+    31
+  
+
+
+  change
+  
+    30
+    scores
+    Row
+    i
+  
+  
+    663
+    596
+  
+
+
+  change
+  
+    30
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IK
+  
+
+
+  change
+  
+    30
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different area code than the input phone number
+  
+
+
+  change
+  
+    30
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    MN
+    CB
+  
+
+
+  change
+  
+    30
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    30
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    VV
+    MN
+  
+
+
+  change
+  
+    30
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Minor or elderly identity
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    30
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    PN
+    VV
+  
+
+
+  change
+  
+    30
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    Minor or elderly identity
+  
+
+
+  change
+  
+    30
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    73
+    9D
+  
+
+
+  change
+  
+    30
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    The input phone number is not found in the public record
+    Change of address frequency
+  
+
+
+  change
+  
+    31
+    accountnumber
+  
+  
+    42
+    32
+  
+
+
+  change
+  
+    31
+    scores
+    Row
+    i
+  
+  
+    512
+    621
+  
+
+
+  change
+  
+    31
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IJ
+  
+
+
+  change
+  
+    31
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different postal code than the input postal code
+  
+
+
+  change
+  
+    31
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    DR
+    MN
+  
+
+
+  change
+  
+    31
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    31
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    CB
+    VV
+  
+
+
+  change
+  
+    31
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Too few sources corroborating SSN, address, and phone
+    Minor or elderly identity
+  
+
+
+  change
+  
+    31
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    MN
+    PN
+  
+
+
+  change
+  
+    31
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    31
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    VV
+    73
+  
+
+
+  change
+  
+    31
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Minor or elderly identity
+    The input phone number is not found in the public record
+  
+
+
+  change
+  
+    31
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    PA
+    PH
+  
+
+
+  change
+  
+    31
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Potential address discrepancy - the Input address may be previous address
+    Name, address and phone not linked in reporting sources
+  
+
+
+  change
+  
+    32
+    accountnumber
+  
+  
+    43
+    33
+  
+
+
+  change
+  
+    32
+    scores
+    Row
+    i
+  
+  
+    642
+    597
+  
+
+
+  change
+  
+    32
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IF
+  
+
+
+  change
+  
+    32
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is not assigned to the United States
+  
+
+
+  change
+  
+    32
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    MN
+    38
+  
+
+
+  change
+  
+    32
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    The input SSN is associated with multiple last names
+  
+
+
+  change
+  
+    32
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    VV
+    MN
+  
+
+
+  change
+  
+    32
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Minor or elderly identity
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    32
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    9D
+    VV
+  
+
+
+  change
+  
+    32
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Change of address frequency
+    Minor or elderly identity
+  
+
+
+  change
+  
+    32
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    9K
+    PN
+  
+
+
+  change
+  
+    32
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Address dwelling type
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    32
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    PN
+    73
+  
+
+
+  change
+  
+    32
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    The input phone number is not found in the public record
+  
+
+
+  change
+  
+    33
+    accountnumber
+  
+  
+    44
+    34
+  
+
+
+  change
+  
+    33
+    scores
+    Row
+    i
+  
+  
+    625
+    561
+  
+
+
+  change
+  
+    33
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    DR
+    MI
+  
+
+
+  change
+  
+    33
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    Multiple identities associated with the input SSN
+  
+
+
+  change
+  
+    33
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    CB
+    DR
+  
+
+
+  change
+  
+    33
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Too few sources corroborating SSN, address, and phone
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    33
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    MN
+    38
+  
+
+
+  change
+  
+    33
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    The input SSN is associated with multiple last names
+  
+
+
+  change
+  
+    33
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    VV
+    MN
+  
+
+
+  change
+  
+    33
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Minor or elderly identity
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    33
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    9K
+    VV
+  
+
+
+  change
+  
+    33
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Address dwelling type
+    Minor or elderly identity
+  
+
+
+  change
+  
+    34
+    accountnumber
+  
+  
+    45
+    35
+  
+
+
+  change
+  
+    34
+    scores
+    Row
+    i
+  
+  
+    574
+    608
+  
+
+
+  change
+  
+    34
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IJ
+  
+
+
+  change
+  
+    34
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different postal code than the input postal code
+  
+
+
+  change
+  
+    34
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    CB
+    38
+  
+
+
+  change
+  
+    34
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Too few sources corroborating SSN, address, and phone
+    The input SSN is associated with multiple last names
+  
+
+
+  change
+  
+    34
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    9D
+    PN
+  
+
+
+  change
+  
+    34
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Change of address frequency
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    35
+    accountnumber
+  
+  
+    46
+    36
+  
+
+
+  change
+  
+    35
+    scores
+    Row
+    i
+  
+  
+    659
+    622
+  
+
+
+  change
+  
+    35
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IJ
+  
+
+
+  change
+  
+    35
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different postal code than the input postal code
+  
+
+
+  change
+  
+    35
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    DR
+    SA
+  
+
+
+  change
+  
+    35
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    SSN not reported at address
+  
+
+
+  change
+  
+    35
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    MN
+    CB
+  
+
+
+  change
+  
+    35
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    35
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    VV
+    MN
+  
+
+
+  change
+  
+    35
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Minor or elderly identity
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    35
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    9D
+    VV
+  
+
+
+  change
+  
+    35
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Change of address frequency
+    Minor or elderly identity
+  
+
+
+  change
+  
+    35
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    PN
+    9D
+  
+
+
+  change
+  
+    35
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    Change of address frequency
+  
+
+
+  change
+  
+    36
+    accountnumber
+  
+  
+    47
+    37
+  
+
+
+  change
+  
+    36
+    scores
+    Row
+    i
+  
+  
+    612
+    535
+  
+
+
+  change
+  
+    36
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IK
+  
+
+
+  change
+  
+    36
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different area code than the input phone number
+  
+
+
+  change
+  
+    36
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    CB
+    38
+  
+
+
+  change
+  
+    36
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Too few sources corroborating SSN, address, and phone
+    The input SSN is associated with multiple last names
+  
+
+
+  change
+  
+    36
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    PN
+    9D
+  
+
+
+  change
+  
+    36
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    Change of address frequency
+  
+
+
+  change
+  
+    37
+    accountnumber
+  
+  
+    48
+    38
+  
+
+
+  change
+  
+    37
+    scores
+    Row
+    i
+  
+  
+    658
+    545
+  
+
+
+  change
+  
+    37
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IK
+  
+
+
+  change
+  
+    37
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different area code than the input phone number
+  
+
+
+  change
+  
+    37
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    CB
+    MN
+  
+
+
+  change
+  
+    37
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Too few sources corroborating SSN, address, and phone
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    37
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    MN
+    VV
+  
+
+
+  change
+  
+    37
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Minor or elderly identity
+  
+
+
+  change
+  
+    37
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    VV
+    9D
+  
+
+
+  change
+  
+    37
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Minor or elderly identity
+    Change of address frequency
+  
+
+
+  change
+  
+    37
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    9D
+    PA
+  
+
+
+  change
+  
+    37
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Change of address frequency
+    Potential address discrepancy - the Input address may be previous address
+  
+
+
+  change
+  
+    38
+    accountnumber
+  
+  
+    50
+    39
+  
+
+
+  change
+  
+    38
+    scores
+    Row
+    i
+  
+  
+    479
+    594
+  
+
+
+  change
+  
+    38
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    DR
+    SA
+  
+
+
+  change
+  
+    38
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    SSN not reported at address
+  
+
+
+  change
+  
+    38
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    MN
+    38
+  
+
+
+  change
+  
+    38
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    The input SSN is associated with multiple last names
+  
+
+
+  change
+  
+    38
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    VV
+    MN
+  
+
+
+  change
+  
+    38
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Minor or elderly identity
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    38
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    9K
+    BO
+  
+
+
+  change
+  
+    38
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Address dwelling type
+    Identity sourced only by national credit bureaus
+  
+
+
+  change
+  
+    39
+    accountnumber
+  
+  
+    51
+    40
+  
+
+
+  change
+  
+    39
+    scores
+    Row
+    i
+  
+  
+    657
+    663
+  
+
+
+  change
+  
+    40
+    accountnumber
+  
+  
+    53
+    41
+  
+
+
+  change
+  
+    40
+    scores
+    Row
+    i
+  
+  
+    720
+    617
+  
+
+
+  change
+  
+    40
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IJ
+  
+
+
+  change
+  
+    40
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different postal code than the input postal code
+  
+
+
+  change
+  
+    40
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    PN
+    9D
+  
+
+
+  change
+  
+    40
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    Change of address frequency
+  
+
+
+  change
+  
+    40
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    73
+    PN
+  
+
+
+  change
+  
+    40
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    The input phone number is not found in the public record
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    41
+    accountnumber
+  
+  
+    54
+    42
+  
+
+
+  change
+  
+    41
+    scores
+    Row
+    i
+  
+  
+    625
+    487
+  
+
+
+  change
+  
+    41
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IJ
+  
+
+
+  change
+  
+    41
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different postal code than the input postal code
+  
+
+
+  change
+  
+    41
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    MN
+    CB
+  
+
+
+  change
+  
+    41
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    41
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    VV
+    MN
+  
+
+
+  change
+  
+    41
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Minor or elderly identity
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    41
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    9K
+    VV
+  
+
+
+  change
+  
+    41
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Address dwelling type
+    Minor or elderly identity
+  
+
+
+  change
+  
+    42
+    accountnumber
+  
+  
+    55
+    43
+  
+
+
+  change
+  
+    42
+    scores
+    Row
+    i
+  
+  
+    656
+    624
+  
+
+
+  change
+  
+    42
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IJ
+  
+
+
+  change
+  
+    42
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different postal code than the input postal code
+  
+
+
+  change
+  
+    42
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    DR
+    MN
+  
+
+
+  change
+  
+    42
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    42
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    MN
+    VV
+  
+
+
+  change
+  
+    42
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Minor or elderly identity
+  
+
+
+  change
+  
+    42
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    VV
+    9D
+  
+
+
+  change
+  
+    42
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Minor or elderly identity
+    Change of address frequency
+  
+
+
+  change
+  
+    42
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    9D
+    9K
+  
+
+
+  change
+  
+    42
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Change of address frequency
+    Address dwelling type
+  
+
+
+  change
+  
+    43
+    accountnumber
+  
+  
+    56
+    44
+  
+
+
+  change
+  
+    43
+    scores
+    Row
+    i
+  
+  
+    623
+    603
+  
+
+
+  change
+  
+    43
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IJ
+  
+
+
+  change
+  
+    43
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different postal code than the input postal code
+  
+
+
+  change
+  
+    43
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    CB
+    DR
+  
+
+
+  change
+  
+    43
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Too few sources corroborating SSN, address, and phone
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    43
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    MN
+    CB
+  
+
+
+  change
+  
+    43
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    43
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    VV
+    MN
+  
+
+
+  change
+  
+    43
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Minor or elderly identity
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    43
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    PN
+    VV
+  
+
+
+  change
+  
+    43
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    Minor or elderly identity
+  
+
+
+  change
+  
+    43
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    73
+    9K
+  
+
+
+  change
+  
+    43
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    The input phone number is not found in the public record
+    Address dwelling type
+  
+
+
+  change
+  
+    44
+    accountnumber
+  
+  
+    57
+    45
+  
+
+
+  change
+  
+    44
+    scores
+    Row
+    i
+  
+  
+    660
+    398
+  
+
+
+  change
+  
+    44
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    II
+  
+
+
+  change
+  
+    44
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different State/Province than the input State/Province
+  
+
+
+  change
+  
+    44
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    MN
+    CB
+  
+
+
+  change
+  
+    44
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    44
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    VV
+    MN
+  
+
+
+  change
+  
+    44
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Minor or elderly identity
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    44
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    PN
+    VV
+  
+
+
+  change
+  
+    44
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    Minor or elderly identity
+  
+
+
+  change
+  
+    44
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    73
+    9D
+  
+
+
+  change
+  
+    44
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    The input phone number is not found in the public record
+    Change of address frequency
+  
+
+
+  change
+  
+    45
+    accountnumber
+  
+  
+    58
+    46
+  
+
+
+  change
+  
+    45
+    scores
+    Row
+    i
+  
+  
+    655
+    659
+  
+
+
+  change
+  
+    45
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    9K
+    9D
+  
+
+
+  change
+  
+    45
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Address dwelling type
+    Change of address frequency
+  
+
+
+  change
+  
+    45
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    PA
+    PN
+  
+
+
+  change
+  
+    45
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Potential address discrepancy - the Input address may be previous address
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    46
+    accountnumber
+  
+  
+    59
+    47
+  
+
+
+  change
+  
+    46
+    scores
+    Row
+    i
+  
+  
+    596
+    592
+  
+
+
+  change
+  
+    46
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IJ
+  
+
+
+  change
+  
+    46
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different postal code than the input postal code
+  
+
+
+  change
+  
+    46
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    MN
+    CB
+  
+
+
+  change
+  
+    46
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    46
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    VV
+    MN
+  
+
+
+  change
+  
+    46
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Minor or elderly identity
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    46
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    9D
+    VV
+  
+
+
+  change
+  
+    46
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Change of address frequency
+    Minor or elderly identity
+  
+
+
+  change
+  
+    46
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    9K
+    PN
+  
+
+
+  change
+  
+    46
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Address dwelling type
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    47
+    accountnumber
+  
+  
+    60
+    48
+  
+
+
+  change
+  
+    47
+    scores
+    Row
+    i
+  
+  
+    509
+    614
+  
+
+
+  change
+  
+    47
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IK
+  
+
+
+  change
+  
+    47
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different area code than the input phone number
+  
+
+
+  change
+  
+    47
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    MN
+    CB
+  
+
+
+  change
+  
+    47
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    47
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    VV
+    MN
+  
+
+
+  change
+  
+    47
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Minor or elderly identity
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    47
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    PA
+    VV
+  
+
+
+  change
+  
+    47
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Potential address discrepancy - the Input address may be previous address
+    Minor or elderly identity
+  
+
+
+  change
+  
+    47
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    PN
+    9D
+  
+
+
+  change
+  
+    47
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    Change of address frequency
+  
+
+
+  change
+  
+    48
+    accountnumber
+  
+  
+    62
+    49
+  
+
+
+  change
+  
+    48
+    scores
+    Row
+    i
+  
+  
+    557
+    578
+  
+
+
+  change
+  
+    48
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    SN
+    DR
+  
+
+
+  change
+  
+    48
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Mismatch of first and last names reported with SSN
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    48
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    VR
+    MN
+  
+
+
+  change
+  
+    48
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Unable to verify key identity components
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    48
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    DR
+    VV
+  
+
+
+  change
+  
+    48
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    Minor or elderly identity
+  
+
+
+  change
+  
+    48
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    MN
+    PN
+  
+
+
+  change
+  
+    48
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    48
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    VV
+    73
+  
+
+
+  change
+  
+    48
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Minor or elderly identity
+    The input phone number is not found in the public record
+  
+
+
+  change
+  
+    49
+    accountnumber
+  
+  
+    63
+    50
+  
+
+
+  change
+  
+    49
+    scores
+    Row
+    i
+  
+  
+    591
+    407
+  
+
+
+  change
+  
+    49
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IK
+  
+
+
+  change
+  
+    49
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different area code than the input phone number
+  
+
+
+  change
+  
+    49
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    SA
+    DR
+  
+
+
+  change
+  
+    49
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    SSN not reported at address
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    49
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    SN
+    CB
+  
+
+
+  change
+  
+    49
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Mismatch of first and last names reported with SSN
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    49
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    VR
+    MN
+  
+
+
+  change
+  
+    49
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Unable to verify key identity components
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    49
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    DR
+    VV
+  
+
+
+  change
+  
+    49
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    Minor or elderly identity
+  
+
+
+  change
+  
+    49
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    CB
+    9K
+  
+
+
+  change
+  
+    49
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Too few sources corroborating SSN, address, and phone
+    Address dwelling type
+  
+
+
+  change
+  
+    50
+    accountnumber
+  
+  
+    64
+    51
+  
+
+
+  change
+  
+    50
+    scores
+    Row
+    i
+  
+  
+    681
+    636
+  
+
+
+  change
+  
+    50
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IK
+  
+
+
+  change
+  
+    50
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different area code than the input phone number
+  
+
+
+  change
+  
+    50
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    PA
+    PN
+  
+
+
+  change
+  
+    50
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Potential address discrepancy - the Input address may be previous address
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    50
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    PN
+    73
+  
+
+
+  change
+  
+    50
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    The input phone number is not found in the public record
+  
+
+
+  change
+  
+    51
+    accountnumber
+  
+  
+    65
+    52
+  
+
+
+  change
+  
+    51
+    scores
+    Row
+    i
+  
+  
+    544
+    606
+  
+
+
+  change
+  
+    51
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    MN
+    CB
+  
+
+
+  change
+  
+    51
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    51
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    VV
+    MN
+  
+
+
+  change
+  
+    51
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Minor or elderly identity
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    51
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    PN
+    BO
+  
+
+
+  change
+  
+    51
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    Identity sourced only by national credit bureaus
+  
+
+
+  change
+  
+    51
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    73
+    VV
+  
+
+
+  change
+  
+    51
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    The input phone number is not found in the public record
+    Minor or elderly identity
+  
+
+
+  change
+  
+    52
+    accountnumber
+  
+  
+    66
+    53
+  
+
+
+  change
+  
+    52
+    scores
+    Row
+    i
+  
+  
+    679
+    697
+  
+
+
+  change
+  
+    52
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    DR
+  
+
+
+  change
+  
+    52
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    52
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    DR
+    MN
+  
+
+
+  change
+  
+    52
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    52
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    CB
+    VV
+  
+
+
+  change
+  
+    52
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Too few sources corroborating SSN, address, and phone
+    Minor or elderly identity
+  
+
+
+  change
+  
+    52
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    MN
+    PN
+  
+
+
+  change
+  
+    52
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    52
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    VV
+    73
+  
+
+
+  change
+  
+    52
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Minor or elderly identity
+    The input phone number is not found in the public record
+  
+
+
+  change
+  
+    52
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    9D
+    PH
+  
+
+
+  change
+  
+    52
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Change of address frequency
+    Name, address and phone not linked in reporting sources
+  
+
+
+  change
+  
+    53
+    accountnumber
+  
+  
+    67
+    54
+  
+
+
+  change
+  
+    53
+    scores
+    Row
+    i
+  
+  
+    670
+    625
+  
+
+
+  change
+  
+    53
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    PA
+    9K
+  
+
+
+  change
+  
+    53
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Potential address discrepancy - the Input address may be previous address
+    Address dwelling type
+  
+
+
+  change
+  
+    53
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    PN
+    PA
+  
+
+
+  change
+  
+    53
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    Potential address discrepancy - the Input address may be previous address
+  
+
+
+  change
+  
+    54
+    accountnumber
+  
+  
+    68
+    55
+  
+
+
+  change
+  
+    54
+    scores
+    Row
+    i
+  
+  
+    685
+    596
+  
+
+
+  change
+  
+    54
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    II
+  
+
+
+  change
+  
+    54
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different State/Province than the input State/Province
+  
+
+
+  change
+  
+    54
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    MN
+    DR
+  
+
+
+  change
+  
+    54
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    54
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    VV
+    MN
+  
+
+
+  change
+  
+    54
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Minor or elderly identity
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    54
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    9D
+    VV
+  
+
+
+  change
+  
+    54
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Change of address frequency
+    Minor or elderly identity
+  
+
+
+  change
+  
+    54
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    PN
+    9D
+  
+
+
+  change
+  
+    54
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    Change of address frequency
+  
+
+
+  change
+  
+    54
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    73
+    PN
+  
+
+
+  change
+  
+    54
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    The input phone number is not found in the public record
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    55
+    accountnumber
+  
+  
+    69
+    56
+  
+
+
+  change
+  
+    55
+    scores
+    Row
+    i
+  
+  
+    610
+    623
+  
+
+
+  change
+  
+    55
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    DR
+    CB
+  
+
+
+  change
+  
+    55
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    55
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    9D
+    PN
+  
+
+
+  change
+  
+    55
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Change of address frequency
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    55
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    PA
+    73
+  
+
+
+  change
+  
+    55
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Potential address discrepancy - the Input address may be previous address
+    The input phone number is not found in the public record
+  
+
+
+  change
+  
+    56
+    accountnumber
+  
+  
+    71
+    57
+  
+
+
+  change
+  
+    56
+    scores
+    Row
+    i
+  
+  
+    574
+    660
+  
+
+
+  change
+  
+    56
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    CB
+    MN
+  
+
+
+  change
+  
+    56
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Too few sources corroborating SSN, address, and phone
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    56
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    90
+    VV
+  
+
+
+  change
+  
+    56
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    The input SSN was issued after age five (post-1990)
+    Minor or elderly identity
+  
+
+
+  change
+  
+    56
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    BO
+    PN
+  
+
+
+  change
+  
+    56
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Identity sourced only by national credit bureaus
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    56
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    VV
+    73
+  
+
+
+  change
+  
+    56
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Minor or elderly identity
+    The input phone number is not found in the public record
+  
+
+
+  change
+  
+    57
+    accountnumber
+  
+  
+    72
+    58
+  
+
+
+  change
+  
+    57
+    scores
+    Row
+    i
+  
+  
+    599
+    655
+  
+
+
+  change
+  
+    57
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    9D
+    9K
+  
+
+
+  change
+  
+    57
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Change of address frequency
+    Address dwelling type
+  
+
+
+  change
+  
+    58
+    accountnumber
+  
+  
+    73
+    59
+  
+
+
+  change
+  
+    58
+    scores
+    Row
+    i
+  
+  
+    730
+    545
+  
+
+
+  change
+  
+    58
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    II
+  
+
+
+  change
+  
+    58
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different State/Province than the input State/Province
+  
+
+
+  change
+  
+    58
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    MN
+    DR
+  
+
+
+  change
+  
+    58
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    58
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    VV
+    MN
+  
+
+
+  change
+  
+    58
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Minor or elderly identity
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    58
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    9D
+    VV
+  
+
+
+  change
+  
+    58
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Change of address frequency
+    Minor or elderly identity
+  
+
+
+  change
+  
+    58
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    PN
+    9D
+  
+
+
+  change
+  
+    58
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    Change of address frequency
+  
+
+
+  change
+  
+    58
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    73
+    9K
+  
+
+
+  change
+  
+    58
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    The input phone number is not found in the public record
+    Address dwelling type
+  
+
+
+  change
+  
+    59
+    accountnumber
+  
+  
+    74
+    60
+  
+
+
+  change
+  
+    59
+    scores
+    Row
+    i
+  
+  
+    623
+    509
+  
+
+
+  change
+  
+    59
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    CB
+    MN
+  
+
+
+  change
+  
+    59
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Too few sources corroborating SSN, address, and phone
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    59
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    MN
+    VV
+  
+
+
+  change
+  
+    59
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Minor or elderly identity
+  
+
+
+  change
+  
+    59
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    VV
+    PA
+  
+
+
+  change
+  
+    59
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Minor or elderly identity
+    Potential address discrepancy - the Input address may be previous address
+  
+
+
+  change
+  
+    60
+    accountnumber
+  
+  
+    75
+    61
+  
+
+
+  change
+  
+    60
+    scores
+    Row
+    i
+  
+  
+    684
+    605
+  
+
+
+  change
+  
+    60
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IE
+  
+
+
+  change
+  
+    60
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address second-level domain is unknown
+  
+
+
+  change
+  
+    60
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    SA
+    DR
+  
+
+
+  change
+  
+    60
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    SSN not reported at address
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    60
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    CB
+    38
+  
+
+
+  change
+  
+    60
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Too few sources corroborating SSN, address, and phone
+    The input SSN is associated with multiple last names
+  
+
+
+  change
+  
+    60
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    38
+    MN
+  
+
+
+  change
+  
+    60
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    The input SSN is associated with multiple last names
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    60
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    MN
+    VV
+  
+
+
+  change
+  
+    60
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Minor or elderly identity
+  
+
+
+  change
+  
+    60
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    VV
+    PN
+  
+
+
+  change
+  
+    60
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Minor or elderly identity
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    61
+    accountnumber
+  
+  
+    77
+    62
+  
+
+
+  change
+  
+    61
+    scores
+    Row
+    i
+  
+  
+    525
+    521
+  
+
+
+  change
+  
+    61
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IK
+  
+
+
+  change
+  
+    61
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different area code than the input phone number
+  
+
+
+  change
+  
+    61
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    DR
+    SN
+  
+
+
+  change
+  
+    61
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    Mismatch of first and last names reported with SSN
+  
+
+
+  change
+  
+    61
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    MN
+    VR
+  
+
+
+  change
+  
+    61
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Unable to verify key identity components
+  
+
+
+  change
+  
+    61
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    VV
+    DR
+  
+
+
+  change
+  
+    61
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Minor or elderly identity
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    61
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    PA
+    MN
+  
+
+
+  change
+  
+    61
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Potential address discrepancy - the Input address may be previous address
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    61
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    PN
+    VV
+  
+
+
+  change
+  
+    61
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    Minor or elderly identity
+  
+
+
+  change
+  
+    62
+    accountnumber
+  
+  
+    79
+    63
+  
+
+
+  change
+  
+    62
+    scores
+    Row
+    i
+  
+  
+    626
+    542
+  
+
+
+  change
+  
+    62
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IJ
+  
+
+
+  change
+  
+    62
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different postal code than the input postal code
+  
+
+
+  change
+  
+    62
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    DR
+    SA
+  
+
+
+  change
+  
+    62
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    SSN not reported at address
+  
+
+
+  change
+  
+    62
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    CB
+    SN
+  
+
+
+  change
+  
+    62
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Too few sources corroborating SSN, address, and phone
+    Mismatch of first and last names reported with SSN
+  
+
+
+  change
+  
+    62
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    MN
+    VR
+  
+
+
+  change
+  
+    62
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Unable to verify key identity components
+  
+
+
+  change
+  
+    62
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    VV
+    DR
+  
+
+
+  change
+  
+    62
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Minor or elderly identity
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    62
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    9D
+    CB
+  
+
+
+  change
+  
+    62
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Change of address frequency
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    63
+    accountnumber
+  
+  
+    80
+    64
+  
+
+
+  change
+  
+    63
+    scores
+    Row
+    i
+  
+  
+    607
+    661
+  
+
+
+  change
+  
+    63
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    II
+  
+
+
+  change
+  
+    63
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different State/Province than the input State/Province
+  
+
+
+  change
+  
+    64
+    accountnumber
+  
+  
+    81
+    65
+  
+
+
+  change
+  
+    64
+    scores
+    Row
+    i
+  
+  
+    625
+    544
+  
+
+
+  change
+  
+    64
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    PA
+    PN
+  
+
+
+  change
+  
+    64
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Potential address discrepancy - the Input address may be previous address
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    64
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    PN
+    73
+  
+
+
+  change
+  
+    64
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    The input phone number is not found in the public record
+  
+
+
+  change
+  
+    65
+    accountnumber
+  
+  
+    82
+    66
+  
+
+
+  change
+  
+    65
+    scores
+    Row
+    i
+  
+  
+    739
+    675
+  
+
+
+  change
+  
+    65
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IK
+  
+
+
+  change
+  
+    65
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different area code than the input phone number
+  
+
+
+  change
+  
+    65
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    MN
+    CB
+  
+
+
+  change
+  
+    65
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    65
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    VV
+    MN
+  
+
+
+  change
+  
+    65
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Minor or elderly identity
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    65
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    PN
+    VV
+  
+
+
+  change
+  
+    65
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    Minor or elderly identity
+  
+
+
+  change
+  
+    65
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    73
+    9D
+  
+
+
+  change
+  
+    65
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    The input phone number is not found in the public record
+    Change of address frequency
+  
+
+
+  change
+  
+    66
+    accountnumber
+  
+  
+    86
+    67
+  
+
+
+  change
+  
+    66
+    scores
+    Row
+    i
+  
+  
+    626
+    625
+  
+
+
+  change
+  
+    66
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    DR
+  
+
+
+  change
+  
+    66
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    66
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    DR
+    MN
+  
+
+
+  change
+  
+    66
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    66
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    MN
+    VV
+  
+
+
+  change
+  
+    66
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Minor or elderly identity
+  
+
+
+  change
+  
+    66
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    VV
+    PA
+  
+
+
+  change
+  
+    66
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Minor or elderly identity
+    Potential address discrepancy - the Input address may be previous address
+  
+
+
+  change
+  
+    66
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    PA
+    PN
+  
+
+
+  change
+  
+    66
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Potential address discrepancy - the Input address may be previous address
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    66
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    PN
+    73
+  
+
+
+  change
+  
+    66
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    The input phone number is not found in the public record
+  
+
+
+  change
+  
+    67
+    accountnumber
+  
+  
+    87
+    68
+  
+
+
+  change
+  
+    67
+    scores
+    Row
+    i
+  
+  
+    590
+    626
+  
+
+
+  change
+  
+    67
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IK
+  
+
+
+  change
+  
+    67
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different area code than the input phone number
+  
+
+
+  change
+  
+    67
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    DR
+    MN
+  
+
+
+  change
+  
+    67
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    67
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    38
+    VV
+  
+
+
+  change
+  
+    67
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN is associated with multiple last names
+    Minor or elderly identity
+  
+
+
+  change
+  
+    67
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    MN
+    9D
+  
+
+
+  change
+  
+    67
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Change of address frequency
+  
+
+
+  change
+  
+    67
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    VV
+    PN
+  
+
+
+  change
+  
+    67
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Minor or elderly identity
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    67
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    9D
+    73
+  
+
+
+  change
+  
+    67
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Change of address frequency
+    The input phone number is not found in the public record
+  
+
+
+  change
+  
+    68
+    accountnumber
+  
+  
+    89
+    69
+  
+
+
+  change
+  
+    68
+    scores
+    Row
+    i
+  
+  
+    627
+    569
+  
+
+
+  change
+  
+    68
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IK
+  
+
+
+  change
+  
+    68
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different area code than the input phone number
+  
+
+
+  change
+  
+    68
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    CB
+    MN
+  
+
+
+  change
+  
+    68
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Too few sources corroborating SSN, address, and phone
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    68
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    MN
+    VV
+  
+
+
+  change
+  
+    68
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Minor or elderly identity
+  
+
+
+  change
+  
+    68
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    VV
+    9D
+  
+
+
+  change
+  
+    68
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Minor or elderly identity
+    Change of address frequency
+  
+
+
+  change
+  
+    68
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    9D
+    PA
+  
+
+
+  change
+  
+    68
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Change of address frequency
+    Potential address discrepancy - the Input address may be previous address
+  
+
+
+  change
+  
+    69
+    accountnumber
+  
+  
+    90
+    70
+  
+
+
+  change
+  
+    69
+    scores
+    Row
+    i
+  
+  
+    648
+    728
+  
+
+
+  change
+  
+    69
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IJ
+  
+
+
+  change
+  
+    69
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different postal code than the input postal code
+  
+
+
+  change
+  
+    70
+    accountnumber
+  
+  
+    91
+    71
+  
+
+
+  change
+  
+    70
+    scores
+    Row
+    i
+  
+  
+    607
+    511
+  
+
+
+  change
+  
+    70
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    II
+  
+
+
+  change
+  
+    70
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different State/Province than the input State/Province
+  
+
+
+  change
+  
+    70
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    MN
+    CB
+  
+
+
+  change
+  
+    70
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    70
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    VV
+    90
+  
+
+
+  change
+  
+    70
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Minor or elderly identity
+    The input SSN was issued after age five (post-1990)
+  
+
+
+  change
+  
+    70
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    PN
+    BO
+  
+
+
+  change
+  
+    70
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    Identity sourced only by national credit bureaus
+  
+
+
+  change
+  
+    70
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    73
+    VV
+  
+
+
+  change
+  
+    70
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    The input phone number is not found in the public record
+    Minor or elderly identity
+  
+
+
+  change
+  
+    71
+    accountnumber
+  
+  
+    92
+    72
+  
+
+
+  change
+  
+    71
+    scores
+    Row
+    i
+  
+  
+    633
+    567
+  
+
+
+  change
+  
+    71
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    DR
+  
+
+
+  change
+  
+    71
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    71
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    38
+    MN
+  
+
+
+  change
+  
+    71
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    The input SSN is associated with multiple last names
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    71
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    MN
+    VV
+  
+
+
+  change
+  
+    71
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Minor or elderly identity
+  
+
+
+  change
+  
+    71
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    BO
+    9D
+  
+
+
+  change
+  
+    71
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Identity sourced only by national credit bureaus
+    Change of address frequency
+  
+
+
+  change
+  
+    71
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    VV
+    PA
+  
+
+
+  change
+  
+    71
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Minor or elderly identity
+    Potential address discrepancy - the Input address may be previous address
+  
+
+
+  change
+  
+    72
+    accountnumber
+  
+  
+    94
+    73
+  
+
+
+  change
+  
+    72
+    scores
+    Row
+    i
+  
+  
+    633
+    709
+  
+
+
+  change
+  
+    72
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IK
+  
+
+
+  change
+  
+    72
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different area code than the input phone number
+  
+
+
+  change
+  
+    72
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    DR
+    MN
+  
+
+
+  change
+  
+    72
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    72
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    CB
+    VV
+  
+
+
+  change
+  
+    72
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Too few sources corroborating SSN, address, and phone
+    Minor or elderly identity
+  
+
+
+  change
+  
+    72
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    MN
+    9D
+  
+
+
+  change
+  
+    72
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Change of address frequency
+  
+
+
+  change
+  
+    72
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    VV
+    PN
+  
+
+
+  change
+  
+    72
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Minor or elderly identity
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    72
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    PN
+    73
+  
+
+
+  change
+  
+    72
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    The input phone number is not found in the public record
+  
+
+
+  change
+  
+    73
+    accountnumber
+  
+  
+    95
+    74
+  
+
+
+  change
+  
+    73
+    scores
+    Row
+    i
+  
+  
+    545
+    574
+  
+
+
+  change
+  
+    73
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    DR
+  
+
+
+  change
+  
+    73
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    73
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    SN
+    CB
+  
+
+
+  change
+  
+    73
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Mismatch of first and last names reported with SSN
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    73
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    DR
+    MN
+  
+
+
+  change
+  
+    73
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    73
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    IR
+    VV
+  
+
+
+  change
+  
+    73
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Identity associated with suspicious activity
+    Minor or elderly identity
+  
+
+
+  change
+  
+    73
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    MN
+    PN
+  
+
+
+  change
+  
+    73
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    73
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    06
+    73
+  
+
+
+  change
+  
+    73
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    The input SSN is invalid
+    The input phone number is not found in the public record
+  
+
+
+  change
+  
+    74
+    accountnumber
+  
+  
+    96
+    75
+  
+
+
+  change
+  
+    74
+    scores
+    Row
+    i
+  
+  
+    575
+    656
+  
+
+
+  change
+  
+    74
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IK
+  
+
+
+  change
+  
+    74
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different area code than the input phone number
+  
+
+
+  change
+  
+    74
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    DR
+    SA
+  
+
+
+  change
+  
+    74
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    SSN not reported at address
+  
+
+
+  change
+  
+    74
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    MN
+    CB
+  
+
+
+  change
+  
+    74
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    74
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    VV
+    38
+  
+
+
+  change
+  
+    74
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Minor or elderly identity
+    The input SSN is associated with multiple last names
+  
+
+
+  change
+  
+    74
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    PN
+    MN
+  
+
+
+  change
+  
+    74
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    74
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    73
+    VV
+  
+
+
+  change
+  
+    74
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    The input phone number is not found in the public record
+    Minor or elderly identity
+  
+
+
+  change
+  
+    75
+    accountnumber
+  
+  
+    97
+    76
+  
+
+
+  change
+  
+    75
+    scores
+    Row
+    i
+  
+  
+    562
+    692
+  
+
+
+  change
+  
+    75
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IJ
+  
+
+
+  change
+  
+    75
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different postal code than the input postal code
+  
+
+
+  change
+  
+    75
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    CB
+    38
+  
+
+
+  change
+  
+    75
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Too few sources corroborating SSN, address, and phone
+    The input SSN is associated with multiple last names
+  
+
+
+  change
+  
+    75
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    PA
+    9D
+  
+
+
+  change
+  
+    75
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Potential address discrepancy - the Input address may be previous address
+    Change of address frequency
+  
+
+
+  change
+  
+    76
+    accountnumber
+  
+  
+    98
+    77
+  
+
+
+  change
+  
+    76
+    scores
+    Row
+    i
+  
+  
+    646
+    509
+  
+
+
+  change
+  
+    76
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    DR
+  
+
+
+  change
+  
+    76
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    76
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    SA
+    MN
+  
+
+
+  change
+  
+    76
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    SSN not reported at address
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    76
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    SN
+    VV
+  
+
+
+  change
+  
+    76
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Mismatch of first and last names reported with SSN
+    Minor or elderly identity
+  
+
+
+  change
+  
+    76
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    DR
+    PA
+  
+
+
+  change
+  
+    76
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    Potential address discrepancy - the Input address may be previous address
+  
+
+
+  change
+  
+    76
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    IR
+    PN
+  
+
+
+  change
+  
+    76
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Identity associated with suspicious activity
+    Unable to verify phone number with identity
+  
+
+
+  change
+  
+    76
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    MN
+    73
+  
+
+
+  change
+  
+    76
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    The input phone number is not found in the public record
+  
+
+
+  change
+  
+    77
+    accountnumber
+  
+  
+    99
+    78
+  
+
+
+  change
+  
+    77
+    scores
+    Row
+    i
+  
+  
+    559
+    549
+  
+
+
+  change
+  
+    77
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    DR
+    SA
+  
+
+
+  change
+  
+    77
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    Multiple identities associated with identity components
+    SSN not reported at address
+  
+
+
+  change
+  
+    77
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    MN
+    MI
+  
+
+
+  change
+  
+    77
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Multiple identities associated with the input SSN
+  
+
+
+  change
+  
+    77
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    VV
+    CB
+  
+
+
+  change
+  
+    77
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Minor or elderly identity
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    77
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    PA
+    MN
+  
+
+
+  change
+  
+    77
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Potential address discrepancy - the Input address may be previous address
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    77
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    PN
+    VV
+  
+
+
+  change
+  
+    77
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Unable to verify phone number with identity
+    Minor or elderly identity
+  
+
+
+  change
+  
+    78
+    accountnumber
+  
+  
+    100
+    79
+  
+
+
+  change
+  
+    78
+    scores
+    Row
+    i
+  
+  
+    651
+    587
+  
+
+
+  change
+  
+    78
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_code
+  
+  
+    IA
+    IK
+  
+
+
+  change
+  
+    78
+    scores
+    Row
+    reason_codes
+    Row
+    0
+    reason_description
+  
+  
+    The input IP address is unknown
+    The input IP address is assigned to a different area code than the input phone number
+  
+
+
+  change
+  
+    78
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_code
+  
+  
+    MN
+    DR
+  
+
+
+  change
+  
+    78
+    scores
+    Row
+    reason_codes
+    Row
+    1
+    reason_description
+  
+  
+    The input SSN was issued within the last seventeen years
+    Multiple identities associated with identity components
+  
+
+
+  change
+  
+    78
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_code
+  
+  
+    VV
+    CB
+  
+
+
+  change
+  
+    78
+    scores
+    Row
+    reason_codes
+    Row
+    2
+    reason_description
+  
+  
+    Minor or elderly identity
+    Too few sources corroborating SSN, address, and phone
+  
+
+
+  change
+  
+    78
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_code
+  
+  
+    9D
+    MN
+  
+
+
+  change
+  
+    78
+    scores
+    Row
+    reason_codes
+    Row
+    3
+    reason_description
+  
+  
+    Change of address frequency
+    The input SSN was issued within the last seventeen years
+  
+
+
+  change
+  
+    78
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_code
+  
+  
+    9K
+    VV
+  
+
+
+  change
+  
+    78
+    scores
+    Row
+    reason_codes
+    Row
+    4
+    reason_description
+  
+  
+    Address dwelling type
+    Minor or elderly identity
+  
+
+
+  change
+  
+    78
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_code
+  
+  
+    SR
+    9D
+  
+
+
+  change
+  
+    78
+    scores
+    Row
+    reason_codes
+    Row
+    5
+    reason_description
+  
+  
+    Address mismatch on secondary address range
+    Change of address frequency
+  
+
+
+  add
+  
+  
+    
+      79
+      
+        <accountnumber>80</accountnumber>
+        <description>FraudPointFP1907_1</description>
+        <errorcode>None</errorcode>
+        <scores>
+          <Row>
+            <i>559</i>
+            <description>0 to 999</description>
+            <index>186</index>
+            <reason_codes>
+              <Row>
+                <seq>1</seq>
+                <reason_code>IK</reason_code>
+                <reason_description>The input IP address is assigned to a different area code than the input phone number</reason_description>
+              </Row>
+              <Row>
+                <seq>2</seq>
+                <reason_code>DR</reason_code>
+                <reason_description>Multiple identities associated with identity components</reason_description>
+              </Row>
+              <Row>
+                <seq>3</seq>
+                <reason_code>MN</reason_code>
+                <reason_description>The input SSN was issued within the last seventeen years</reason_description>
+              </Row>
+              <Row>
+                <seq>4</seq>
+                <reason_code>VV</reason_code>
+                <reason_description>Minor or elderly identity</reason_description>
+              </Row>
+              <Row>
+                <seq>5</seq>
+                <reason_code>PA</reason_code>
+                <reason_description>Potential address discrepancy - the Input address may be previous address</reason_description>
+              </Row>
+              <Row>
+                <seq>6</seq>
+                <reason_code>PN</reason_code>
+                <reason_description>Unable to verify phone number with identity</reason_description>
+              </Row>
+            </reason_codes>
+          </Row>
+        </scores>
+      
+    
+    
+      80
+      
+        <accountnumber>81</accountnumber>
+        <description>FraudPointFP1907_1</description>
+        <errorcode>None</errorcode>
+        <scores>
+          <Row>
+            <i>625</i>
+            <description>0 to 999</description>
+            <index>186</index>
+            <reason_codes>
+              <Row>
+                <seq>1</seq>
+                <reason_code>IA</reason_code>
+                <reason_description>The input IP address is unknown</reason_description>
+              </Row>
+              <Row>
+                <seq>2</seq>
+                <reason_code>DR</reason_code>
+                <reason_description>Multiple identities associated with identity components</reason_description>
+              </Row>
+              <Row>
+                <seq>3</seq>
+                <reason_code>MN</reason_code>
+                <reason_description>The input SSN was issued within the last seventeen years</reason_description>
+              </Row>
+              <Row>
+                <seq>4</seq>
+                <reason_code>VV</reason_code>
+                <reason_description>Minor or elderly identity</reason_description>
+              </Row>
+              <Row>
+                <seq>5</seq>
+                <reason_code>PA</reason_code>
+                <reason_description>Potential address discrepancy - the Input address may be previous address</reason_description>
+              </Row>
+              <Row>
+                <seq>6</seq>
+                <reason_code>PN</reason_code>
+                <reason_description>Unable to verify phone number with identity</reason_description>
+              </Row>
+            </reason_codes>
+          </Row>
+        </scores>
+      
+    
+    
+      81
+      
+        <accountnumber>82</accountnumber>
+        <description>FraudPointFP1907_1</description>
+        <errorcode>None</errorcode>
+        <scores>
+          <Row>
+            <i>723</i>
+            <description>0 to 999</description>
+            <index>186</index>
+            <reason_codes>
+              <Row>
+                <seq>1</seq>
+                <reason_code>IJ</reason_code>
+                <reason_description>The input IP address is assigned to a different postal code than the input postal code</reason_description>
+              </Row>
+              <Row>
+                <seq>2</seq>
+                <reason_code>DR</reason_code>
+                <reason_description>Multiple identities associated with identity components</reason_description>
+              </Row>
+              <Row>
+                <seq>3</seq>
+                <reason_code>MN</reason_code>
+                <reason_description>The input SSN was issued within the last seventeen years</reason_description>
+              </Row>
+              <Row>
+                <seq>4</seq>
+                <reason_code>VV</reason_code>
+                <reason_description>Minor or elderly identity</reason_description>
+              </Row>
+              <Row>
+                <seq>5</seq>
+                <reason_code>PN</reason_code>
+                <reason_description>Unable to verify phone number with identity</reason_description>
+              </Row>
+              <Row>
+                <seq>6</seq>
+                <reason_code>73</reason_code>
+                <reason_description>The input phone number is not found in the public record</reason_description>
+              </Row>
+            </reason_codes>
+          </Row>
+        </scores>
+      
+    
+    
+      82
+      
+        <accountnumber>83</accountnumber>
+        <description>FraudPointFP1907_1</description>
+        <errorcode>None</errorcode>
+        <scores>
+          <Row>
+            <i>691</i>
+            <description>0 to 999</description>
+            <index>186</index>
+            <reason_codes>
+              <Row>
+                <seq>1</seq>
+                <reason_code>IJ</reason_code>
+                <reason_description>The input IP address is assigned to a different postal code than the input postal code</reason_description>
+              </Row>
+              <Row>
+                <seq>2</seq>
+                <reason_code>SA</reason_code>
+                <reason_description>SSN not reported at address</reason_description>
+              </Row>
+              <Row>
+                <seq>3</seq>
+                <reason_code>CB</reason_code>
+                <reason_description>Too few sources corroborating SSN, address, and phone</reason_description>
+              </Row>
+              <Row>
+                <seq>4</seq>
+                <reason_code>MN</reason_code>
+                <reason_description>The input SSN was issued within the last seventeen years</reason_description>
+              </Row>
+              <Row>
+                <seq>5</seq>
+                <reason_code>VV</reason_code>
+                <reason_description>Minor or elderly identity</reason_description>
+              </Row>
+              <Row>
+                <seq>6</seq>
+                <reason_code>11</reason_code>
+                <reason_description>The input address may be invalid according to postal specifications</reason_description>
+              </Row>
+            </reason_codes>
+          </Row>
+        </scores>
+      
+    
+    
+      83
+      
+        <accountnumber>84</accountnumber>
+        <description>FraudPointFP1907_1</description>
+        <errorcode>None</errorcode>
+        <scores>
+          <Row>
+            <i>607</i>
+            <description>0 to 999</description>
+            <index>186</index>
+            <reason_codes>
+              <Row>
+                <seq>1</seq>
+                <reason_code>II</reason_code>
+                <reason_description>The input IP address is assigned to a different State/Province than the input State/Province</reason_description>
+              </Row>
+              <Row>
+                <seq>2</seq>
+                <reason_code>SA</reason_code>
+                <reason_description>SSN not reported at address</reason_description>
+              </Row>
+              <Row>
+                <seq>3</seq>
+                <reason_code>CB</reason_code>
+                <reason_description>Too few sources corroborating SSN, address, and phone</reason_description>
+              </Row>
+              <Row>
+                <seq>4</seq>
+                <reason_code>MN</reason_code>
+                <reason_description>The input SSN was issued within the last seventeen years</reason_description>
+              </Row>
+              <Row>
+                <seq>5</seq>
+                <reason_code>VV</reason_code>
+                <reason_description>Minor or elderly identity</reason_description>
+              </Row>
+              <Row>
+                <seq>6</seq>
+                <reason_code>PN</reason_code>
+                <reason_description>Unable to verify phone number with identity</reason_description>
+              </Row>
+            </reason_codes>
+          </Row>
+        </scores>
+      
+    
+    
+      84
+      
+        <accountnumber>85</accountnumber>
+        <description>FraudPointFP1907_1</description>
+        <errorcode>None</errorcode>
+        <scores>
+          <Row>
+            <i>644</i>
+            <description>0 to 999</description>
+            <index>186</index>
+            <reason_codes>
+              <Row>
+                <seq>1</seq>
+                <reason_code>IA</reason_code>
+                <reason_description>The input IP address is unknown</reason_description>
+              </Row>
+              <Row>
+                <seq>2</seq>
+                <reason_code>MN</reason_code>
+                <reason_description>The input SSN was issued within the last seventeen years</reason_description>
+              </Row>
+              <Row>
+                <seq>3</seq>
+                <reason_code>VV</reason_code>
+                <reason_description>Minor or elderly identity</reason_description>
+              </Row>
+              <Row>
+                <seq>4</seq>
+                <reason_code>9D</reason_code>
+                <reason_description>Change of address frequency</reason_description>
+              </Row>
+              <Row>
+                <seq>5</seq>
+                <reason_code>PA</reason_code>
+                <reason_description>Potential address discrepancy - the Input address may be previous address</reason_description>
+              </Row>
+              <Row>
+                <seq>6</seq>
+                <reason_code>PN</reason_code>
+                <reason_description>Unable to verify phone number with identity</reason_description>
+              </Row>
+            </reason_codes>
+          </Row>
+        </scores>
+      
+    
+    
+      85
+      
+        <accountnumber>86</accountnumber>
+        <description>FraudPointFP1907_1</description>
+        <errorcode>None</errorcode>
+        <scores>
+          <Row>
+            <i>598</i>
+            <description>0 to 999</description>
+            <index>186</index>
+            <reason_codes>
+              <Row>
+                <seq>1</seq>
+                <reason_code>DR</reason_code>
+                <reason_description>Multiple identities associated with identity components</reason_description>
+              </Row>
+              <Row>
+                <seq>2</seq>
+                <reason_code>MN</reason_code>
+                <reason_description>The input SSN was issued within the last seventeen years</reason_description>
+              </Row>
+              <Row>
+                <seq>3</seq>
+                <reason_code>VV</reason_code>
+                <reason_description>Minor or elderly identity</reason_description>
+              </Row>
+              <Row>
+                <seq>4</seq>
+                <reason_code>PA</reason_code>
+                <reason_description>Potential address discrepancy - the Input address may be previous address</reason_description>
+              </Row>
+              <Row>
+                <seq>5</seq>
+                <reason_code>PN</reason_code>
+                <reason_description>Unable to verify phone number with identity</reason_description>
+              </Row>
+              <Row>
+                <seq>6</seq>
+                <reason_code>73</reason_code>
+                <reason_description>The input phone number is not found in the public record</reason_description>
+              </Row>
+            </reason_codes>
+          </Row>
+        </scores>
+      
+    
+    
+      86
+      
+        <accountnumber>87</accountnumber>
+        <description>FraudPointFP1907_1</description>
+        <errorcode>None</errorcode>
+        <scores>
+          <Row>
+            <i>590</i>
+            <description>0 to 999</description>
+            <index>186</index>
+            <reason_codes>
+              <Row>
+                <seq>1</seq>
+                <reason_code>IA</reason_code>
+                <reason_description>The input IP address is unknown</reason_description>
+              </Row>
+              <Row>
+                <seq>2</seq>
+                <reason_code>DR</reason_code>
+                <reason_description>Multiple identities associated with identity components</reason_description>
+              </Row>
+              <Row>
+                <seq>3</seq>
+                <reason_code>38</reason_code>
+                <reason_description>The input SSN is associated with multiple last names</reason_description>
+              </Row>
+              <Row>
+                <seq>4</seq>
+                <reason_code>MN</reason_code>
+                <reason_description>The input SSN was issued within the last seventeen years</reason_description>
+              </Row>
+              <Row>
+                <seq>5</seq>
+                <reason_code>VV</reason_code>
+                <reason_description>Minor or elderly identity</reason_description>
+              </Row>
+              <Row>
+                <seq>6</seq>
+                <reason_code>9D</reason_code>
+                <reason_description>Change of address frequency</reason_description>
+              </Row>
+            </reason_codes>
+          </Row>
+        </scores>
+      
+    
+    
+      87
+      
+        <accountnumber>88</accountnumber>
+        <description>FraudPointFP1907_1</description>
+        <errorcode>None</errorcode>
+        <scores>
+          <Row>
+            <i>746</i>
+            <description>0 to 999</description>
+            <index>186</index>
+            <reason_codes>
+              <Row>
+                <seq>1</seq>
+                <reason_code>IA</reason_code>
+                <reason_description>The input IP address is unknown</reason_description>
+              </Row>
+              <Row>
+                <seq>2</seq>
+                <reason_code>MN</reason_code>
+                <reason_description>The input SSN was issued within the last seventeen years</reason_description>
+              </Row>
+              <Row>
+                <seq>3</seq>
+                <reason_code>VV</reason_code>
+                <reason_description>Minor or elderly identity</reason_description>
+              </Row>
+              <Row>
+                <seq>4</seq>
+                <reason_code>9D</reason_code>
+                <reason_description>Change of address frequency</reason_description>
+              </Row>
+              <Row>
+                <seq>5</seq>
+                <reason_code>PN</reason_code>
+                <reason_description>Unable to verify phone number with identity</reason_description>
+              </Row>
+              <Row>
+                <seq>6</seq>
+                <reason_code>73</reason_code>
+                <reason_description>The input phone number is not found in the public record</reason_description>
+              </Row>
+            </reason_codes>
+          </Row>
+        </scores>
+      
+    
+    
+      88
+      
+        <accountnumber>89</accountnumber>
+        <description>FraudPointFP1907_1</description>
+        <errorcode>None</errorcode>
+        <scores>
+          <Row>
+            <i>588</i>
+            <description>0 to 999</description>
+            <index>186</index>
+            <reason_codes>
+              <Row>
+                <seq>1</seq>
+                <reason_code>DR</reason_code>
+                <reason_description>Multiple identities associated with identity components</reason_description>
+              </Row>
+              <Row>
+                <seq>2</seq>
+                <reason_code>CB</reason_code>
+                <reason_description>Too few sources corroborating SSN, address, and phone</reason_description>
+              </Row>
+              <Row>
+                <seq>3</seq>
+                <reason_code>MN</reason_code>
+                <reason_description>The input SSN was issued within the last seventeen years</reason_description>
+              </Row>
+              <Row>
+                <seq>4</seq>
+                <reason_code>VV</reason_code>
+                <reason_description>Minor or elderly identity</reason_description>
+              </Row>
+              <Row>
+                <seq>5</seq>
+                <reason_code>9D</reason_code>
+                <reason_description>Change of address frequency</reason_description>
+              </Row>
+              <Row>
+                <seq>6</seq>
+                <reason_code>PN</reason_code>
+                <reason_description>Unable to verify phone number with identity</reason_description>
+              </Row>
+            </reason_codes>
+          </Row>
+        </scores>
+      
+    
+    
+      89
+      
+        <accountnumber>90</accountnumber>
+        <description>FraudPointFP1907_1</description>
+        <errorcode>None</errorcode>
+        <scores>
+          <Row>
+            <i>648</i>
+            <description>0 to 999</description>
+            <index>186</index>
+            <reason_codes>
+              <Row>
+                <seq>1</seq>
+                <reason_code>IA</reason_code>
+                <reason_description>The input IP address is unknown</reason_description>
+              </Row>
+              <Row>
+                <seq>2</seq>
+                <reason_code>MN</reason_code>
+                <reason_description>The input SSN was issued within the last seventeen years</reason_description>
+              </Row>
+              <Row>
+                <seq>3</seq>
+                <reason_code>VV</reason_code>
+                <reason_description>Minor or elderly identity</reason_description>
+              </Row>
+              <Row>
+                <seq>4</seq>
+                <reason_code>9D</reason_code>
+                <reason_description>Change of address frequency</reason_description>
+              </Row>
+              <Row>
+                <seq>5</seq>
+                <reason_code>PN</reason_code>
+                <reason_description>Unable to verify phone number with identity</reason_description>
+              </Row>
+              <Row>
+                <seq>6</seq>
+                <reason_code>73</reason_code>
+                <reason_description>The input phone number is not found in the public record</reason_description>
+              </Row>
+            </reason_codes>
+          </Row>
+        </scores>
+      
+    
+    
+      90
+      
+        <accountnumber>91</accountnumber>
+        <description>FraudPointFP1907_1</description>
+        <errorcode>None</errorcode>
+        <scores>
+          <Row>
+            <i>607</i>
+            <description>0 to 999</description>
+            <index>186</index>
+            <reason_codes>
+              <Row>
+                <seq>1</seq>
+                <reason_code>IA</reason_code>
+                <reason_description>The input IP address is unknown</reason_description>
+              </Row>
+              <Row>
+                <seq>2</seq>
+                <reason_code>DR</reason_code>
+                <reason_description>Multiple identities associated with identity components</reason_description>
+              </Row>
+              <Row>
+                <seq>3</seq>
+                <reason_code>MN</reason_code>
+                <reason_description>The input SSN was issued within the last seventeen years</reason_description>
+              </Row>
+              <Row>
+                <seq>4</seq>
+                <reason_code>VV</reason_code>
+                <reason_description>Minor or elderly identity</reason_description>
+              </Row>
+              <Row>
+                <seq>5</seq>
+                <reason_code>PN</reason_code>
+                <reason_description>Unable to verify phone number with identity</reason_description>
+              </Row>
+              <Row>
+                <seq>6</seq>
+                <reason_code>73</reason_code>
+                <reason_description>The input phone number is not found in the public record</reason_description>
+              </Row>
+            </reason_codes>
+          </Row>
+        </scores>
+      
+    
+    
+      91
+      
+        <accountnumber>92</accountnumber>
+        <description>FraudPointFP1907_1</description>
+        <errorcode>None</errorcode>
+        <scores>
+          <Row>
+            <i>633</i>
+            <description>0 to 999</description>
+            <index>186</index>
+            <reason_codes>
+              <Row>
+                <seq>1</seq>
+                <reason_code>IA</reason_code>
+                <reason_description>The input IP address is unknown</reason_description>
+              </Row>
+              <Row>
+                <seq>2</seq>
+                <reason_code>38</reason_code>
+                <reason_description>The input SSN is associated with multiple last names</reason_description>
+              </Row>
+              <Row>
+                <seq>3</seq>
+                <reason_code>MN</reason_code>
+                <reason_description>The input SSN was issued within the last seventeen years</reason_description>
+              </Row>
+              <Row>
+                <seq>4</seq>
+                <reason_code>BO</reason_code>
+                <reason_description>Identity sourced only by national credit bureaus</reason_description>
+              </Row>
+              <Row>
+                <seq>5</seq>
+                <reason_code>VV</reason_code>
+                <reason_description>Minor or elderly identity</reason_description>
+              </Row>
+              <Row>
+                <seq>6</seq>
+                <reason_code>PN</reason_code>
+                <reason_description>Unable to verify phone number with identity</reason_description>
+              </Row>
+            </reason_codes>
+          </Row>
+        </scores>
+      
+    
+    
+      92
+      
+        <accountnumber>93</accountnumber>
+        <description>FraudPointFP1907_1</description>
+        <errorcode>None</errorcode>
+        <scores>
+          <Row>
+            <i>424</i>
+            <description>0 to 999</description>
+            <index>186</index>
+            <reason_codes>
+              <Row>
+                <seq>1</seq>
+                <reason_code>IK</reason_code>
+                <reason_description>The input IP address is assigned to a different area code than the input phone number</reason_description>
+              </Row>
+              <Row>
+                <seq>2</seq>
+                <reason_code>DR</reason_code>
+                <reason_description>Multiple identities associated with identity components</reason_description>
+              </Row>
+              <Row>
+                <seq>3</seq>
+                <reason_code>MN</reason_code>
+                <reason_description>The input SSN was issued within the last seventeen years</reason_description>
+              </Row>
+              <Row>
+                <seq>4</seq>
+                <reason_code>VV</reason_code>
+                <reason_description>Minor or elderly identity</reason_description>
+              </Row>
+              <Row>
+                <seq>5</seq>
+                <reason_code>PA</reason_code>
+                <reason_description>Potential address discrepancy - the Input address may be previous address</reason_description>
+              </Row>
+              <Row>
+                <seq>6</seq>
+                <reason_code>PN</reason_code>
+                <reason_description>Unable to verify phone number with identity</reason_description>
+              </Row>
+            </reason_codes>
+          </Row>
+        </scores>
+      
+    
+    
+      93
+      
+        <accountnumber>94</accountnumber>
+        <description>FraudPointFP1907_1</description>
+        <errorcode>None</errorcode>
+        <scores>
+          <Row>
+            <i>633</i>
+            <description>0 to 999</description>
+            <index>186</index>
+            <reason_codes>
+              <Row>
+                <seq>1</seq>
+                <reason_code>IA</reason_code>
+                <reason_description>The input IP address is unknown</reason_description>
+              </Row>
+              <Row>
+                <seq>2</seq>
+                <reason_code>DR</reason_code>
+                <reason_description>Multiple identities associated with identity components</reason_description>
+              </Row>
+              <Row>
+                <seq>3</seq>
+                <reason_code>CB</reason_code>
+                <reason_description>Too few sources corroborating SSN, address, and phone</reason_description>
+              </Row>
+              <Row>
+                <seq>4</seq>
+                <reason_code>MN</reason_code>
+                <reason_description>The input SSN was issued within the last seventeen years</reason_description>
+              </Row>
+              <Row>
+                <seq>5</seq>
+                <reason_code>VV</reason_code>
+                <reason_description>Minor or elderly identity</reason_description>
+              </Row>
+              <Row>
+                <seq>6</seq>
+                <reason_code>PN</reason_code>
+                <reason_description>Unable to verify phone number with identity</reason_description>
+              </Row>
+            </reason_codes>
+          </Row>
+        </scores>
+      
+    
+    
+      94
+      
+        <accountnumber>95</accountnumber>
+        <description>FraudPointFP1907_1</description>
+        <errorcode>None</errorcode>
+        <scores>
+          <Row>
+            <i>545</i>
+            <description>0 to 999</description>
+            <index>186</index>
+            <reason_codes>
+              <Row>
+                <seq>1</seq>
+                <reason_code>IA</reason_code>
+                <reason_description>The input IP address is unknown</reason_description>
+              </Row>
+              <Row>
+                <seq>2</seq>
+                <reason_code>SN</reason_code>
+                <reason_description>Mismatch of first and last names reported with SSN</reason_description>
+              </Row>
+              <Row>
+                <seq>3</seq>
+                <reason_code>DR</reason_code>
+                <reason_description>Multiple identities associated with identity components</reason_description>
+              </Row>
+              <Row>
+                <seq>4</seq>
+                <reason_code>IR</reason_code>
+                <reason_description>Identity associated with suspicious activity</reason_description>
+              </Row>
+              <Row>
+                <seq>5</seq>
+                <reason_code>MN</reason_code>
+                <reason_description>The input SSN was issued within the last seventeen years</reason_description>
+              </Row>
+              <Row>
+                <seq>6</seq>
+                <reason_code>06</reason_code>
+                <reason_description>The input SSN is invalid</reason_description>
+              </Row>
+            </reason_codes>
+          </Row>
+        </scores>
+      
+    
+    
+      95
+      
+        <accountnumber>96</accountnumber>
+        <description>FraudPointFP1907_1</description>
+        <errorcode>None</errorcode>
+        <scores>
+          <Row>
+            <i>538</i>
+            <description>0 to 999</description>
+            <index>186</index>
+            <reason_codes>
+              <Row>
+                <seq>1</seq>
+                <reason_code>IG</reason_code>
+                <reason_description>The input IP address is non-routable over the internet</reason_description>
+              </Row>
+              <Row>
+                <seq>2</seq>
+                <reason_code>DR</reason_code>
+                <reason_description>Multiple identities associated with identity components</reason_description>
+              </Row>
+              <Row>
+                <seq>3</seq>
+                <reason_code>MN</reason_code>
+                <reason_description>The input SSN was issued within the last seventeen years</reason_description>
+              </Row>
+              <Row>
+                <seq>4</seq>
+                <reason_code>VV</reason_code>
+                <reason_description>Minor or elderly identity</reason_description>
+              </Row>
+              <Row>
+                <seq>5</seq>
+                <reason_code>PN</reason_code>
+                <reason_description>Unable to verify phone number with identity</reason_description>
+              </Row>
+              <Row>
+                <seq>6</seq>
+                <reason_code>73</reason_code>
+                <reason_description>The input phone number is not found in the public record</reason_description>
+              </Row>
+            </reason_codes>
+          </Row>
+        </scores>
+      
+    
+    
+      96
+      
+        <accountnumber>97</accountnumber>
+        <description>FraudPointFP1907_1</description>
+        <errorcode>None</errorcode>
+        <scores>
+          <Row>
+            <i>562</i>
+            <description>0 to 999</description>
+            <index>186</index>
+            <reason_codes>
+              <Row>
+                <seq>1</seq>
+                <reason_code>IA</reason_code>
+                <reason_description>The input IP address is unknown</reason_description>
+              </Row>
+              <Row>
+                <seq>2</seq>
+                <reason_code>DR</reason_code>
+                <reason_description>Multiple identities associated with identity components</reason_description>
+              </Row>
+              <Row>
+                <seq>3</seq>
+                <reason_code>CB</reason_code>
+                <reason_description>Too few sources corroborating SSN, address, and phone</reason_description>
+              </Row>
+              <Row>
+                <seq>4</seq>
+                <reason_code>MN</reason_code>
+                <reason_description>The input SSN was issued within the last seventeen years</reason_description>
+              </Row>
+              <Row>
+                <seq>5</seq>
+                <reason_code>VV</reason_code>
+                <reason_description>Minor or elderly identity</reason_description>
+              </Row>
+              <Row>
+                <seq>6</seq>
+                <reason_code>PA</reason_code>
+                <reason_description>Potential address discrepancy - the Input address may be previous address</reason_description>
+              </Row>
+            </reason_codes>
+          </Row>
+        </scores>
+      
+    
+    
+      97
+      
+        <accountnumber>98</accountnumber>
+        <description>FraudPointFP1907_1</description>
+        <errorcode>None</errorcode>
+        <scores>
+          <Row>
+            <i>618</i>
+            <description>0 to 999</description>
+            <index>186</index>
+            <reason_codes>
+              <Row>
+                <seq>1</seq>
+                <reason_code>IK</reason_code>
+                <reason_description>The input IP address is assigned to a different area code than the input phone number</reason_description>
+              </Row>
+              <Row>
+                <seq>2</seq>
+                <reason_code>SA</reason_code>
+                <reason_description>SSN not reported at address</reason_description>
+              </Row>
+              <Row>
+                <seq>3</seq>
+                <reason_code>SN</reason_code>
+                <reason_description>Mismatch of first and last names reported with SSN</reason_description>
+              </Row>
+              <Row>
+                <seq>4</seq>
+                <reason_code>DR</reason_code>
+                <reason_description>Multiple identities associated with identity components</reason_description>
+              </Row>
+              <Row>
+                <seq>5</seq>
+                <reason_code>IR</reason_code>
+                <reason_description>Identity associated with suspicious activity</reason_description>
+              </Row>
+              <Row>
+                <seq>6</seq>
+                <reason_code>MN</reason_code>
+                <reason_description>The input SSN was issued within the last seventeen years</reason_description>
+              </Row>
+            </reason_codes>
+          </Row>
+        </scores>
+      
+    
+    
+      98
+      
+        <accountnumber>99</accountnumber>
+        <description>FraudPointFP1907_1</description>
+        <errorcode>None</errorcode>
+        <scores>
+          <Row>
+            <i>559</i>
+            <description>0 to 999</description>
+            <index>186</index>
+            <reason_codes>
+              <Row>
+                <seq>1</seq>
+                <reason_code>IA</reason_code>
+                <reason_description>The input IP address is unknown</reason_description>
+              </Row>
+              <Row>
+                <seq>2</seq>
+                <reason_code>DR</reason_code>
+                <reason_description>Multiple identities associated with identity components</reason_description>
+              </Row>
+              <Row>
+                <seq>3</seq>
+                <reason_code>MN</reason_code>
+                <reason_description>The input SSN was issued within the last seventeen years</reason_description>
+              </Row>
+              <Row>
+                <seq>4</seq>
+                <reason_code>VV</reason_code>
+                <reason_description>Minor or elderly identity</reason_description>
+              </Row>
+              <Row>
+                <seq>5</seq>
+                <reason_code>PA</reason_code>
+                <reason_description>Potential address discrepancy - the Input address may be previous address</reason_description>
+              </Row>
+              <Row>
+                <seq>6</seq>
+                <reason_code>PN</reason_code>
+                <reason_description>Unable to verify phone number with identity</reason_description>
+              </Row>
+            </reason_codes>
+          </Row>
+        </scores>
+      
+    
+    
+      99
+      
+        <accountnumber>100</accountnumber>
+        <description>FraudPointFP1907_1</description>
+        <errorcode>None</errorcode>
+        <scores>
+          <Row>
+            <i>509</i>
+            <description>0 to 999</description>
+            <index>186</index>
+            <reason_codes>
+              <Row>
+                <seq>1</seq>
+                <reason_code>II</reason_code>
+                <reason_description>The input IP address is assigned to a different State/Province than the input State/Province</reason_description>
+              </Row>
+              <Row>
+                <seq>2</seq>
+                <reason_code>MN</reason_code>
+                <reason_description>The input SSN was issued within the last seventeen years</reason_description>
+              </Row>
+              <Row>
+                <seq>3</seq>
+                <reason_code>VV</reason_code>
+                <reason_description>Minor or elderly identity</reason_description>
+              </Row>
+              <Row>
+                <seq>4</seq>
+                <reason_code>9D</reason_code>
+                <reason_description>Change of address frequency</reason_description>
+              </Row>
+              <Row>
+                <seq>5</seq>
+                <reason_code>9K</reason_code>
+                <reason_description>Address dwelling type</reason_description>
+              </Row>
+              <Row>
+                <seq>6</seq>
+                <reason_code>SR</reason_code>
+                <reason_description>Address mismatch on secondary address range</reason_description>
+              </Row>
+            </reason_codes>
+          </Row>
+        </scores>
+      
+    
+  

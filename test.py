@@ -1,17 +1,16 @@
-import difflib
-import sys
+import json
+import os
 
 import pandas as pd
 import xmltodict
-import json
-
-from dict2xml import dict2xml
+from dictdiffer import diff
+from dicttoxml import dicttoxml
 
 file_1 = 'fraudpointbadip.xml'
-file_2 = 'fraudpointgoodip.xml'
+file_1_name = os.path.splitext(file_1)[0]
 
-# file_1 = 'xml1.xml'
-# file_2 = 'xml2.xml'
+file_2 = 'fraudpointgoodip.xml'
+file_2_name = os.path.splitext(file_2)[0]
 
 text1 = open(file_1).read()
 text2 = open(file_2).read()
@@ -34,50 +33,25 @@ def covert_xml_to_dataset(xml: str, index: str):
 
 
 file_dict_1 = covert_xml_to_dataset(text1, 'accountnumber')
+file_1_output = open(f"output/{file_1_name}.json", "w")
+file_1_output.writelines(json.dumps(file_dict_1))
+file_1_output.close()
+
 file_dict_2 = covert_xml_to_dataset(text2, 'accountnumber')
+file_2_output = open(f"output/{file_2_name}.json", "w")
+file_2_output.writelines(json.dumps(file_dict_2))
+file_2_output.close()
 
-# maybe do some crazy ass recursive thing here
-# diffs = []
-# for index, val in enumerate(file_dict_1):
-#
-#     if index in file_dict_2 and not isinstance(file_dict_1, dict):
-#         index_matches = file_dict_1[index] == file_dict_2[index]
-#         if not index_matches:
-#             diffs.append()
-#
-#     if index in file_dict_2 and isinstance(file_dict_1, dict):
-#         pass
+result = diff(file_dict_1, file_dict_2)
+result = list(result)
 
+# Json
+json_result_output = open('output/results.json', 'w')
+json_result_output.writelines(json.dumps(result))
+json_result_output.close()
 
-# file_json_1 = json.dumps(file_dict_1)
-# file_json_2 = json.dumps(file_dict_2)
-xml_file_1 = dict2xml(file_dict_1)
-xml_file_2 = dict2xml(file_dict_2)
-
-xml1 = open('xml_1.xml', 'w')
-xml1.writelines(xml_file_1)
-xml1.close()
-
-xml2 = open('xml_2.xml', 'w')
-xml2.writelines(xml_file_2)
-xml2.close()
-
-
-xml1 = open('xml_1.xml', 'r')
-xml2 = open('xml_2.xml', 'r')
-text1 = xml1.readlines()
-text2 = xml2.readlines()
-d = difflib.Differ()
-# delta = d.compare(text1, text2)
-delta = difflib.unified_diff(text1, text2, file_1, file_2, lineterm='')
-
-sys.stdout = open('results.txt', 'w')
-sys.stdout.writelines(delta)
-# delta = difflib.context_diff(text1, text2, file_1, file_2, lineterm='')
-
-
-# d = difflib.Differ()
-# delta = d.compare(text1, text2)
-#
-# sys.stdout = open('results.txt', 'w')
-# sys.stdout.writelines(delta)
+# XML OUTPUT
+result_xml = dicttoxml(result)
+xml_result_output = open('output/results.xml', 'w')
+xml_result_output.writelines(result_xml.decode('UTF-8'))
+xml_result_output.close()
