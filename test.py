@@ -88,6 +88,7 @@ result = list(result)
 
 change_dict = {}
 
+# make a summary for what changes we have seen.
 for res in result:
     if res[0] != 'change':
         continue
@@ -100,6 +101,10 @@ for res in result:
 if output_format == 'json':
     json_result_output = open('output/results.json', 'w')
     json_result_output.writelines(json.dumps(result))
+    json_result_output.close()
+
+    json_result_output = open('output/change_summary.json', 'w')
+    json_result_output.writelines(json.dumps(change_dict))
     json_result_output.close()
 
 # XML OUTPUT
