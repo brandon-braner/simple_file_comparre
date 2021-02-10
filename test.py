@@ -12,10 +12,6 @@ parser.add_argument('file_1', type=str, help='Filename for the first file to com
 parser.add_argument('file_2', type=str, help='Filename for the second file to compare')
 
 args = parser.parse_args()
-# del args[0]  # get rid of main.py
-# num_of_args = len(args)
-# if num_of_args != 2:
-#     print 'Incorrect number of arguments. Should have 2 filenames'
 
 file_1 = args.file_1
 file_2 = args.file_2
