@@ -1,17 +1,22 @@
+import argparse
 import filecmp
 import io
 import sys
 import json
 from print_classes import Bcolors as bcolors
 
-args = sys.argv
-del args[0]  # get rid of main.py
-num_of_args = len(args)
-if num_of_args != 2:
-    print 'Incorrect number of arguments. Should have 2 filenames'
+parser = argparse.ArgumentParser(description="Compare Two XML Files")
+parser.add_argument('file_1', type=str, help='Filename for the first file to compare')
+parser.add_argument('file_2', type=str, help='Filename for the second file to compare')
 
-file_one = args[0]
-file_two = args[1]
+args = parser.parse_args()
+# del args[0]  # get rid of main.py
+# num_of_args = len(args)
+# if num_of_args != 2:
+#     print 'Incorrect number of arguments. Should have 2 filenames'
+
+file_one = args.file_1
+file_two = args.file_2
 
 
 def get_file_end(file_reader):

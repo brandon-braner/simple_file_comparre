@@ -1,3 +1,4 @@
+import argparse
 import json
 import os
 
@@ -6,10 +7,20 @@ import xmltodict
 from dictdiffer import diff
 from dicttoxml import dicttoxml
 
-file_1 = 'fraudpointbadip.xml'
-file_1_name = os.path.splitext(file_1)[0]
+parser = argparse.ArgumentParser(description="Compare Two XML Files")
+parser.add_argument('file_1', type=str, help='Filename for the first file to compare')
+parser.add_argument('file_2', type=str, help='Filename for the second file to compare')
 
-file_2 = 'fraudpointgoodip.xml'
+args = parser.parse_args()
+# del args[0]  # get rid of main.py
+# num_of_args = len(args)
+# if num_of_args != 2:
+#     print 'Incorrect number of arguments. Should have 2 filenames'
+
+file_1 = args.file_1
+file_2 = args.file_2
+
+file_1_name = os.path.splitext(file_1)[0]
 file_2_name = os.path.splitext(file_2)[0]
 
 text1 = open(file_1).read()
