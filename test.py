@@ -10,11 +10,13 @@ from dicttoxml import dicttoxml
 parser = argparse.ArgumentParser(description="Compare Two XML Files")
 parser.add_argument('file_1', type=str, help='Filename for the first file to compare')
 parser.add_argument('file_2', type=str, help='Filename for the second file to compare')
+parser.add_argument('output', type=str, help="Output format JSON or XML")
 
 args = parser.parse_args()
 
 file_1 = args.file_1
 file_2 = args.file_2
+output_format = str(args.output).lower()
 
 file_1_name = os.path.splitext(file_1)[0]
 file_2_name = os.path.splitext(file_2)[0]
@@ -53,12 +55,14 @@ result = diff(file_dict_1, file_dict_2)
 result = list(result)
 
 # Json
-json_result_output = open('output/results.json', 'w')
-json_result_output.writelines(json.dumps(result))
-json_result_output.close()
+if output_format == 'json':
+    json_result_output = open('output/results.json', 'w')
+    json_result_output.writelines(json.dumps(result))
+    json_result_output.close()
 
 # XML OUTPUT
-result_xml = dicttoxml(result)
-xml_result_output = open('output/results.xml', 'w')
-xml_result_output.writelines(result_xml.decode('UTF-8'))
-xml_result_output.close()
+if output_format == 'xml':
+    result_xml = dicttoxml(result)
+    xml_result_output = open('output/results.xml', 'w')
+    xml_result_output.writelines(result_xml.decode('UTF-8'))
+    xml_result_output.close()
