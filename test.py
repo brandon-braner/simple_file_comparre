@@ -49,20 +49,14 @@ def covert_xml_to_dataset(xml: str, index: str):
 
 
 def remove_unmatched_index_numbers(dict_1, dict_2, index):
-    set_1 = set()
-    set_2 = set()
-
-    for item in dict_1:
-        set_1.add(item[index])
-
-    for item in dict_2:
-        set_2.add(item[index])
+    set_1 = {item[index] for item in dict_1}
+    set_2 = {item[index] for item in dict_2}
 
     # these need to be removed from dict_1
     dict_1_values_not_in_dict_2 = set_1 - set_2
     # these need to be removed from dict_2
     dict_2_values_not_in_dict_1 = set_2 - set_1
-  
+
     new_dict_1 = [x for x in dict_1 if x[index] not in dict_1_values_not_in_dict_2]
     new_dict_2 = [x for x in dict_2 if x[index] not in dict_2_values_not_in_dict_1]
 
@@ -75,14 +69,10 @@ file_dict_2_unfiltered = covert_xml_to_dataset(text2, sortable_index)
 # removing records that do not have a match in the other dataset
 file_dict_1, file_dict_2 = remove_unmatched_index_numbers(file_dict_1_unfiltered, file_dict_2_unfiltered, sortable_index)
 
-file_1_output = open(f"output/{file_1_name}.json", "w")
-file_1_output.writelines(json.dumps(file_dict_1))
-file_1_output.close()
-
-file_2_output = open(f"output/{file_2_name}.json", "w")
-file_2_output.writelines(json.dumps(file_dict_2))
-file_2_output.close()
-
+with open(f"output/{file_1_name}.json", "w") as file_1_output:
+    file_1_output.writelines(json.dumps(file_dict_1))
+with open(f"output/{file_2_name}.json", "w") as file_2_output:
+    file_2_output.writelines(json.dumps(file_dict_2))
 result = diff(file_dict_1, file_dict_2)
 result = list(result)
 
@@ -99,20 +89,15 @@ for res in result:
 
 # Json
 if output_format == 'json':
-    json_result_output = open('output/results.json', 'w')
-    json_result_output.writelines(json.dumps(result))
-    json_result_output.close()
-
-    json_result_output = open('output/change_summary.json', 'w')
-    json_result_output.writelines(json.dumps(change_dict))
-    json_result_output.close()
-
+    with open('output/results.json', 'w') as json_result_output:
+        json_result_output.writelines(json.dumps(result))
+    with open('output/change_summary.json', 'w') as json_result_output:
+        json_result_output.writelines(json.dumps(change_dict))
 # XML OUTPUT
 if output_format == 'xml':
     result_xml = dicttoxml(result)
-    xml_result_output = open('output/results.xml', 'w')
-    xml_result_output.writelines(result_xml.decode('UTF-8'))
-    xml_result_output.close()
+    with open('output/results.xml', 'w') as xml_result_output:
+        xml_result_output.writelines(result_xml.decode('UTF-8'))
 
 
 

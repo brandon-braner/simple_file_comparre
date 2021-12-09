@@ -48,15 +48,15 @@ while True:
         file_2_is_at_end = True
 
     if file_1_is_at_end and file_2_is_at_end:
-        if len(all_differences) == 0:
+        if not all_differences:
             print(f"{bcolors.OKGREEN}Both files are at the end, they are the same")
         else:
             print(f"{bcolors.FAIL}Both files are at the end but have differences ")
         break
-    elif file_1_is_at_end and not file_2_is_at_end:
+    elif file_1_is_at_end:
         print(f"{bcolors.FAIL}{file_one} reached the end before {file_two}. They are not the same")
         break
-    elif not file_1_is_at_end and file_2_is_at_end:
+    elif file_2_is_at_end:
         print(f"{bcolors.FAIL}{file_two} reached the end before {file_one}. They are not the same")
         break
 
@@ -64,22 +64,22 @@ while True:
     file_two_string = file_reader_2.readline()
 
     if file_one_string == file_two_string:
-        line_number = line_number + 1
-        continue
+        line_number += 1
     else:
         diff = difflib.context_diff(file_one_string, file_two_string, lineterm='')
         diff_two.append(''.join(diff))
 
-        differences = []
-        differences.append({
-            'file_1_string': file_one_string,
-            'file_2_string': file_two_string,
-            'line_number': line_number
-        })
-        all_differences.append(differences)
-        continue
+        differences = [
+            {
+                'file_1_string': file_one_string,
+                'file_2_string': file_two_string,
+                'line_number': line_number,
+            }
+        ]
 
-if len(all_differences) == 0:
+        all_differences.append(differences)
+    continue
+if not all_differences:
     print(f"{bcolors.OKGREEN} No Differences")
 else:
     # diff = json.dumps(all_differences)
